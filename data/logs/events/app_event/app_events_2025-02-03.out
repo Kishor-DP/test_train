@@ -1,0 +1,67 @@
+2025-02-03 12:14:15,290 - app_event - INFO - process_start_stop_flag
+2025-02-03 12:14:29,289 - app_event - INFO - Inference time: 12.08 seconds
+2025-02-03 12:14:31,711 - app_event - INFO - Inference time: 2.28 seconds
+2025-02-03 12:14:33,834 - app_event - INFO - Inference time: 2.11 seconds
+2025-02-03 12:14:35,738 - app_event - INFO - Inference time: 1.89 seconds
+2025-02-03 12:14:38,095 - app_event - INFO - Inference time: 2.33 seconds
+2025-02-03 12:14:40,948 - app_event - INFO - Inference time: 2.83 seconds
+2025-02-03 12:14:43,799 - app_event - INFO - Inference time: 2.83 seconds
+2025-02-03 12:14:46,718 - app_event - INFO - Inference time: 2.90 seconds
+2025-02-03 12:14:49,674 - app_event - INFO - Inference time: 2.92 seconds
+2025-02-03 12:14:52,676 - app_event - INFO - Inference time: 2.97 seconds
+2025-02-03 12:14:55,733 - app_event - INFO - Inference time: 3.04 seconds
+2025-02-03 12:14:58,793 - app_event - INFO - Inference time: 3.05 seconds
+2025-02-03 12:15:01,921 - app_event - INFO - Inference time: 3.11 seconds
+2025-02-03 12:15:05,029 - app_event - INFO - Inference time: 3.07 seconds
+2025-02-03 12:15:07,955 - app_event - INFO - Inference time: 2.91 seconds
+2025-02-03 12:15:11,348 - app_event - INFO - Inference time: 3.38 seconds
+2025-02-03 12:15:14,986 - app_event - INFO - Inference time: 3.62 seconds
+2025-02-03 12:15:18,577 - app_event - INFO - Inference time: 3.56 seconds
+2025-02-03 12:15:21,815 - app_event - INFO - Inference time: 3.21 seconds
+2025-02-03 12:58:20,788 - app_event - INFO - process_start_stop_flag
+2025-02-03 12:58:34,554 - app_event - INFO - Inference time: 12.61 seconds
+2025-02-03 12:58:38,722 - app_event - INFO - Inference time: 3.93 seconds
+2025-02-03 12:58:41,184 - app_event - INFO - Inference time: 2.43 seconds
+2025-02-03 12:58:43,337 - app_event - INFO - Inference time: 2.13 seconds
+2025-02-03 12:58:45,521 - app_event - INFO - Inference time: 2.15 seconds
+2025-02-03 12:58:48,695 - app_event - INFO - Inference time: 3.14 seconds
+2025-02-03 12:58:51,739 - app_event - INFO - Inference time: 3.02 seconds
+2025-02-03 12:58:54,720 - app_event - INFO - Inference time: 2.93 seconds
+2025-02-03 12:58:57,720 - app_event - INFO - Inference time: 2.97 seconds
+2025-02-03 12:59:00,982 - app_event - INFO - Inference time: 3.25 seconds
+2025-02-03 12:59:03,911 - app_event - INFO - Inference time: 2.90 seconds
+2025-02-03 12:59:06,824 - app_event - INFO - Inference time: 2.87 seconds
+2025-02-03 12:59:09,385 - app_event - INFO - Inference time: 2.52 seconds
+2025-02-03 12:59:11,415 - app_event - INFO - Inference time: 2.00 seconds
+2025-02-03 12:59:13,541 - app_event - INFO - Inference time: 2.11 seconds
+2025-02-03 12:59:16,020 - app_event - INFO - Inference time: 2.45 seconds
+2025-02-03 12:59:18,263 - app_event - INFO - Inference time: 2.22 seconds
+2025-02-03 12:59:20,346 - app_event - INFO - Inference time: 2.06 seconds
+2025-02-03 12:59:23,057 - app_event - INFO - Inference time: 2.70 seconds
+2025-02-03 13:09:15,878 - app_event - INFO - process_start_stop_flag
+2025-02-03 13:12:21,660 - app_event - INFO - process_start_stop_flag
+2025-02-03 13:12:54,388 - app_event - INFO - process_start_stop_flag
+2025-02-03 13:13:02,329 - app_event - INFO - Inference time: 7.43 seconds
+2025-02-03 13:13:04,779 - app_event - INFO - Inference time: 2.34 seconds
+2025-02-03 13:13:06,816 - app_event - INFO - Inference time: 2.02 seconds
+2025-02-03 13:13:08,982 - app_event - INFO - Inference time: 2.15 seconds
+2025-02-03 13:13:11,443 - app_event - INFO - Inference time: 2.44 seconds
+2025-02-03 13:13:13,516 - app_event - INFO - Inference time: 2.04 seconds
+2025-02-03 14:22:30,084 - app_event - INFO - process_start_stop_flag
+2025-02-03 14:22:44,694 - app_event - INFO - Inference time: 13.35 seconds
+2025-02-03 14:22:47,423 - app_event - INFO - Inference time: 2.49 seconds
+2025-02-03 14:22:49,606 - app_event - INFO - Inference time: 2.15 seconds
+2025-02-03 14:22:52,111 - app_event - INFO - Inference time: 2.49 seconds
+2025-02-03 14:22:54,370 - app_event - INFO - Inference time: 2.24 seconds
+2025-02-03 14:22:56,441 - app_event - INFO - Inference time: 2.05 seconds
+2025-02-03 14:22:59,730 - app_event - INFO - Inference time: 3.26 seconds
+2025-02-03 14:23:04,797 - app_event - INFO - Inference time: 5.05 seconds
+2025-02-03 14:25:02,941 - app_event - INFO - process_start_stop_flag
+2025-02-03 17:09:26,444 - app_event - INFO - process_start_stop_flag
+2025-02-03 17:09:27,589 - app_event - INFO - Class 0: New Coach
+2025-02-03 17:19:32,905 - app_event - INFO - process_start_stop_flag
+2025-02-03 17:19:34,035 - app_event - INFO - Total video time: 00:34.120000
+2025-02-03 17:22:32,424 - app_event - INFO - Detected 'New Coach' at timestamp: 00:02.160000
+2025-02-03 17:22:40,841 - app_event - INFO - Detected 'New Coach' at timestamp: 00:02.200000
+2025-02-03 17:27:32,963 - app_event - INFO - process_start_stop_flag
+2025-02-03 17:27:34,877 - app_event - INFO - Total video time: 00:34.120000

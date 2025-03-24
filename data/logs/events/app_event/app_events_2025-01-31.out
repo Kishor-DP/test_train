@@ -1,0 +1,55 @@
+2025-01-31 15:27:52,483 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 15:39:35,012 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 15:48:45,487 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 15:55:12,004 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 15:56:22,240 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 15:59:18,584 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 16:22:11,253 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 16:24:11,758 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 16:37:52,631 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 16:40:06,608 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 16:42:25,771 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 16:43:57,922 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 16:49:27,692 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 16:50:40,453 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 16:54:15,415 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 16:55:07,578 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 16:56:17,856 - app_event - DEBUG - process_start_stop_flag
+2025-01-31 17:12:09,690 - app_event - INFO - process_start_stop_flag
+2025-01-31 17:13:34,259 - app_event - INFO - process_start_stop_flag
+2025-01-31 17:13:49,659 - app_event - INFO - process_start_stop_flag
+2025-01-31 17:15:29,854 - app_event - INFO - process_start_stop_flag
+2025-01-31 17:15:46,879 - app_event - INFO - process_start_stop_flag
+2025-01-31 17:16:09,864 - app_event - INFO - process_start_stop_flag
+2025-01-31 17:16:43,103 - app_event - INFO - process_start_stop_flag
+2025-01-31 17:34:35,008 - app_event - INFO - process_start_stop_flag
+2025-01-31 17:35:09,168 - app_event - INFO - process_start_stop_flag
+2025-01-31 17:36:46,133 - app_event - INFO - process_start_stop_flag
+2025-01-31 17:38:35,701 - app_event - INFO - process_start_stop_flag
+2025-01-31 17:48:20,743 - app_event - INFO - process_start_stop_flag
+2025-01-31 17:49:49,167 - app_event - INFO - process_start_stop_flag
+2025-01-31 17:50:10,359 - app_event - INFO - process_start_stop_flag
+2025-01-31 17:50:18,085 - app_event - INFO - Inference time: 6.97 seconds
+2025-01-31 17:50:20,187 - app_event - INFO - Inference time: 1.97 seconds
+2025-01-31 17:50:22,298 - app_event - INFO - Inference time: 2.09 seconds
+2025-01-31 17:50:24,752 - app_event - INFO - Inference time: 2.43 seconds
+2025-01-31 17:50:27,065 - app_event - INFO - Inference time: 2.28 seconds
+2025-01-31 17:50:29,399 - app_event - INFO - Inference time: 2.32 seconds
+2025-01-31 17:50:31,669 - app_event - INFO - Inference time: 2.26 seconds
+2025-01-31 22:17:21,468 - app_event - INFO - process_start_stop_flag
+2025-01-31 22:17:32,365 - app_event - INFO - process_start_stop_flag
+2025-01-31 22:21:15,597 - app_event - INFO - process_start_stop_flag
+2025-01-31 22:21:56,345 - app_event - INFO - process_start_stop_flag
+2025-01-31 22:23:24,346 - app_event - INFO - process_start_stop_flag
+2025-01-31 22:34:25,763 - app_event - INFO - process_start_stop_flag
+2025-01-31 22:35:07,830 - app_event - INFO - process_start_stop_flag
+2025-01-31 22:35:17,011 - app_event - INFO - Inference time: 8.62 seconds
+2025-01-31 22:35:19,583 - app_event - INFO - Inference time: 2.44 seconds
+2025-01-31 22:35:22,010 - app_event - INFO - Inference time: 2.41 seconds
+2025-01-31 22:35:24,248 - app_event - INFO - Inference time: 2.22 seconds
+2025-01-31 22:35:26,477 - app_event - INFO - Inference time: 2.20 seconds
+2025-01-31 22:35:29,718 - app_event - INFO - Inference time: 3.22 seconds
+2025-01-31 22:35:32,872 - app_event - INFO - Inference time: 3.13 seconds
+2025-01-31 22:35:36,211 - app_event - INFO - Inference time: 3.31 seconds
+2025-01-31 22:35:39,435 - app_event - INFO - Inference time: 3.20 seconds
+2025-01-31 22:35:42,747 - app_event - INFO - Inference time: 3.27 seconds

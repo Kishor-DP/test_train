@@ -1,0 +1,731 @@
+2025-03-20 14:44:50,611 - app_event - INFO - 2400
+2025-03-20 14:44:50,654 - app_event - INFO - initial_distance
+2025-03-20 14:44:50,655 - app_event - INFO - 2400
+2025-03-20 14:44:50,677 - app_event - INFO - result
+2025-03-20 14:44:50,682 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:50,685 - app_event - INFO - time_seconds
+2025-03-20 14:44:50,686 - app_event - INFO - 0.144
+2025-03-20 14:44:51,017 - app_event - INFO - C1,     4,  25  22  46   1  644480000,  1632,  1562,  1570,  1536,
+2025-03-20 14:44:51,238 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:51,240 - app_event - INFO - LHB
+2025-03-20 14:44:51,240 - app_event - INFO - distance_mm
+2025-03-20 14:44:51,241 - app_event - INFO - 2400
+2025-03-20 14:44:51,242 - app_event - INFO - initial_distance
+2025-03-20 14:44:51,243 - app_event - INFO - 2400
+2025-03-20 14:44:51,248 - app_event - INFO - result
+2025-03-20 14:44:51,250 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:51,252 - app_event - INFO - time_seconds
+2025-03-20 14:44:51,253 - app_event - INFO - 0.144
+2025-03-20 14:44:51,600 - app_event - INFO - C1,     4,  25  22  46   2  218656000,  1614,  1562,  1570,  1536,
+2025-03-20 14:44:51,838 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:51,839 - app_event - INFO - LHB
+2025-03-20 14:44:51,841 - app_event - INFO - distance_mm
+2025-03-20 14:44:51,843 - app_event - INFO - 2400
+2025-03-20 14:44:51,844 - app_event - INFO - initial_distance
+2025-03-20 14:44:51,846 - app_event - INFO - 2400
+2025-03-20 14:44:51,851 - app_event - INFO - result
+2025-03-20 14:44:51,853 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:51,854 - app_event - INFO - time_seconds
+2025-03-20 14:44:51,854 - app_event - INFO - 0.144
+2025-03-20 14:44:52,187 - app_event - INFO - C1,     6,  25  22  46   2  792468000,  1616,  1560,  1570,  1536,
+2025-03-20 14:44:52,375 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:52,377 - app_event - INFO - LHB
+2025-03-20 14:44:52,378 - app_event - INFO - distance_mm
+2025-03-20 14:44:52,381 - app_event - INFO - 2400
+2025-03-20 14:44:52,383 - app_event - INFO - initial_distance
+2025-03-20 14:44:52,385 - app_event - INFO - 2400
+2025-03-20 14:44:52,387 - app_event - INFO - result
+2025-03-20 14:44:52,388 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:52,389 - app_event - INFO - time_seconds
+2025-03-20 14:44:52,391 - app_event - INFO - 0.144
+2025-03-20 14:44:52,769 - app_event - INFO - C1,     7,  25  22  46   3  389279000,  1616,  1560,  1572,  1536,
+2025-03-20 14:44:52,954 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:52,956 - app_event - INFO - LHB
+2025-03-20 14:44:52,958 - app_event - INFO - distance_mm
+2025-03-20 14:44:52,959 - app_event - INFO - 2400
+2025-03-20 14:44:52,959 - app_event - INFO - initial_distance
+2025-03-20 14:44:52,961 - app_event - INFO - 2400
+2025-03-20 14:44:52,965 - app_event - INFO - result
+2025-03-20 14:44:52,967 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:52,968 - app_event - INFO - time_seconds
+2025-03-20 14:44:52,969 - app_event - INFO - 0.144
+2025-03-20 14:44:53,252 - app_event - INFO - C1,     8,  25  22  46   3  910186000,  1616,  1560,  1570,  1522,
+2025-03-20 14:44:53,483 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:53,485 - app_event - INFO - LHB
+2025-03-20 14:44:53,485 - app_event - INFO - distance_mm
+2025-03-20 14:44:53,487 - app_event - INFO - 2400
+2025-03-20 14:44:53,488 - app_event - INFO - initial_distance
+2025-03-20 14:44:53,490 - app_event - INFO - 2400
+2025-03-20 14:44:53,492 - app_event - INFO - result
+2025-03-20 14:44:53,493 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:53,494 - app_event - INFO - time_seconds
+2025-03-20 14:44:53,497 - app_event - INFO - 0.144
+2025-03-20 14:44:53,703 - app_event - INFO - C1,     9,  25  22  46   4  396999000,  1630,  1560,  1572,  1532,
+2025-03-20 14:44:53,894 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:53,896 - app_event - INFO - LHB
+2025-03-20 14:44:53,898 - app_event - INFO - distance_mm
+2025-03-20 14:44:53,899 - app_event - INFO - 2400
+2025-03-20 14:44:53,901 - app_event - INFO - initial_distance
+2025-03-20 14:44:53,903 - app_event - INFO - 2400
+2025-03-20 14:44:53,905 - app_event - INFO - result
+2025-03-20 14:44:53,906 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:53,907 - app_event - INFO - time_seconds
+2025-03-20 14:44:53,908 - app_event - INFO - 0.144
+2025-03-20 14:44:54,230 - app_event - INFO - C1,    10,  25  22  46   4  858542000,  1616,  1560,  1570,  1538,
+2025-03-20 14:44:54,496 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:54,498 - app_event - INFO - LHB
+2025-03-20 14:44:54,499 - app_event - INFO - distance_mm
+2025-03-20 14:44:54,501 - app_event - INFO - 2400
+2025-03-20 14:44:54,502 - app_event - INFO - initial_distance
+2025-03-20 14:44:54,503 - app_event - INFO - 2400
+2025-03-20 14:44:54,506 - app_event - INFO - result
+2025-03-20 14:44:54,507 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:54,509 - app_event - INFO - time_seconds
+2025-03-20 14:44:54,511 - app_event - INFO - 0.144
+2025-03-20 14:44:54,742 - app_event - INFO - C1,    11,  25  22  46   5  453899000,  1628,  1558,  1570,  1536,
+2025-03-20 14:44:54,935 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:54,936 - app_event - INFO - LHB
+2025-03-20 14:44:54,937 - app_event - INFO - distance_mm
+2025-03-20 14:44:54,939 - app_event - INFO - 2400
+2025-03-20 14:44:54,941 - app_event - INFO - initial_distance
+2025-03-20 14:44:54,943 - app_event - INFO - 2400
+2025-03-20 14:44:54,946 - app_event - INFO - result
+2025-03-20 14:44:54,949 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:54,951 - app_event - INFO - time_seconds
+2025-03-20 14:44:54,952 - app_event - INFO - 0.144
+2025-03-20 14:44:55,333 - app_event - INFO - C1,    12,  25  22  46   5  952399000,  1630,  1560,  1570,  1536,
+2025-03-20 14:44:55,647 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:55,648 - app_event - INFO - LHB
+2025-03-20 14:44:55,650 - app_event - INFO - distance_mm
+2025-03-20 14:44:55,651 - app_event - INFO - 2400
+2025-03-20 14:44:55,652 - app_event - INFO - initial_distance
+2025-03-20 14:44:55,653 - app_event - INFO - 2400
+2025-03-20 14:44:55,655 - app_event - INFO - result
+2025-03-20 14:44:55,656 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:55,659 - app_event - INFO - time_seconds
+2025-03-20 14:44:55,660 - app_event - INFO - 0.144
+2025-03-20 14:44:55,960 - app_event - INFO - C1,    13,  25  22  46   6  635744000,  1630,  1562,  1570,  1536,
+2025-03-20 14:44:56,158 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:56,159 - app_event - INFO - LHB
+2025-03-20 14:44:56,161 - app_event - INFO - distance_mm
+2025-03-20 14:44:56,162 - app_event - INFO - 2400
+2025-03-20 14:44:56,163 - app_event - INFO - initial_distance
+2025-03-20 14:44:56,164 - app_event - INFO - 2400
+2025-03-20 14:44:56,167 - app_event - INFO - result
+2025-03-20 14:44:56,168 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:56,168 - app_event - INFO - time_seconds
+2025-03-20 14:44:56,169 - app_event - INFO - 0.144
+2025-03-20 14:44:56,581 - app_event - INFO - C1,    14,  25  22  46   7  102485000,  1616,  1566,  1570,  1536,
+2025-03-20 14:44:56,777 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:56,779 - app_event - INFO - LHB
+2025-03-20 14:44:56,780 - app_event - INFO - distance_mm
+2025-03-20 14:44:56,782 - app_event - INFO - 2400
+2025-03-20 14:44:56,783 - app_event - INFO - initial_distance
+2025-03-20 14:44:56,784 - app_event - INFO - 2400
+2025-03-20 14:44:56,787 - app_event - INFO - result
+2025-03-20 14:44:56,788 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:56,789 - app_event - INFO - time_seconds
+2025-03-20 14:44:56,790 - app_event - INFO - 0.144
+2025-03-20 14:44:57,004 - app_event - INFO - C1,    15,  25  22  46   7  709425000,  1630,  1560,  1586,  1536,
+2025-03-20 14:44:57,220 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:57,221 - app_event - INFO - LHB
+2025-03-20 14:44:57,223 - app_event - INFO - distance_mm
+2025-03-20 14:44:57,224 - app_event - INFO - 2400
+2025-03-20 14:44:57,226 - app_event - INFO - initial_distance
+2025-03-20 14:44:57,227 - app_event - INFO - 2400
+2025-03-20 14:44:57,232 - app_event - INFO - result
+2025-03-20 14:44:57,233 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:57,235 - app_event - INFO - time_seconds
+2025-03-20 14:44:57,236 - app_event - INFO - 0.144
+2025-03-20 14:44:57,603 - app_event - INFO - C1,    16,  25  22  46   8  207682000,  1614,  1560,  1570,  1536,
+2025-03-20 14:44:57,785 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:57,787 - app_event - INFO - LHB
+2025-03-20 14:44:57,789 - app_event - INFO - distance_mm
+2025-03-20 14:44:57,791 - app_event - INFO - 2400
+2025-03-20 14:44:57,791 - app_event - INFO - initial_distance
+2025-03-20 14:44:57,792 - app_event - INFO - 2400
+2025-03-20 14:44:57,793 - app_event - INFO - result
+2025-03-20 14:44:57,796 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:57,798 - app_event - INFO - time_seconds
+2025-03-20 14:44:57,799 - app_event - INFO - 0.144
+2025-03-20 14:44:58,128 - app_event - INFO - C1,    17,  25  22  46   8  738570000,  1616,  1560,  1572,  1538,
+2025-03-20 14:44:58,333 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:58,335 - app_event - INFO - LHB
+2025-03-20 14:44:58,336 - app_event - INFO - distance_mm
+2025-03-20 14:44:58,338 - app_event - INFO - 2400
+2025-03-20 14:44:58,339 - app_event - INFO - initial_distance
+2025-03-20 14:44:58,340 - app_event - INFO - 2400
+2025-03-20 14:44:58,342 - app_event - INFO - result
+2025-03-20 14:44:58,343 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:58,346 - app_event - INFO - time_seconds
+2025-03-20 14:44:58,348 - app_event - INFO - 0.144
+2025-03-20 14:44:58,551 - app_event - INFO - C1,    18,  25  22  46   9  259323000,  1616,  1560,  1570,  1538,
+2025-03-20 14:44:58,750 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:58,752 - app_event - INFO - LHB
+2025-03-20 14:44:58,754 - app_event - INFO - distance_mm
+2025-03-20 14:44:58,755 - app_event - INFO - 2400
+2025-03-20 14:44:58,756 - app_event - INFO - initial_distance
+2025-03-20 14:44:58,757 - app_event - INFO - 2400
+2025-03-20 14:44:58,759 - app_event - INFO - result
+2025-03-20 14:44:58,763 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:58,764 - app_event - INFO - time_seconds
+2025-03-20 14:44:58,766 - app_event - INFO - 0.144
+2025-03-20 14:44:59,162 - app_event - INFO - C1,    18,  25  22  46   9  789768000,  1616,  1560,  1570,  1538,
+2025-03-20 14:44:59,363 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:59,365 - app_event - INFO - LHB
+2025-03-20 14:44:59,366 - app_event - INFO - distance_mm
+2025-03-20 14:44:59,367 - app_event - INFO - 2400
+2025-03-20 14:44:59,368 - app_event - INFO - initial_distance
+2025-03-20 14:44:59,369 - app_event - INFO - 2400
+2025-03-20 14:44:59,371 - app_event - INFO - result
+2025-03-20 14:44:59,373 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:59,374 - app_event - INFO - time_seconds
+2025-03-20 14:44:59,376 - app_event - INFO - 0.144
+2025-03-20 14:44:59,714 - app_event - INFO - C1,    20,  25  22  46  10  331544000,  1616,  1560,  1586,  1524,
+2025-03-20 14:44:59,901 - app_event - INFO - loadtrain_type
+2025-03-20 14:44:59,903 - app_event - INFO - LHB
+2025-03-20 14:44:59,904 - app_event - INFO - distance_mm
+2025-03-20 14:44:59,906 - app_event - INFO - 2400
+2025-03-20 14:44:59,907 - app_event - INFO - initial_distance
+2025-03-20 14:44:59,907 - app_event - INFO - 2400
+2025-03-20 14:44:59,910 - app_event - INFO - result
+2025-03-20 14:44:59,912 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:44:59,914 - app_event - INFO - time_seconds
+2025-03-20 14:44:59,914 - app_event - INFO - 0.144
+2025-03-20 14:45:00,566 - app_event - INFO - C1,    21,  25  22  46  10  863706000,  1630,  1560,  1570,  1538,
+2025-03-20 14:45:00,767 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:00,769 - app_event - INFO - LHB
+2025-03-20 14:45:00,771 - app_event - INFO - distance_mm
+2025-03-20 14:45:00,772 - app_event - INFO - 2400
+2025-03-20 14:45:00,774 - app_event - INFO - initial_distance
+2025-03-20 14:45:00,775 - app_event - INFO - 2400
+2025-03-20 14:45:00,776 - app_event - INFO - result
+2025-03-20 14:45:00,778 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:00,780 - app_event - INFO - time_seconds
+2025-03-20 14:45:00,782 - app_event - INFO - 0.144
+2025-03-20 14:45:01,021 - app_event - INFO - C1,    22,  25  22  46  11  723909000,  1614,  1560,  1570,  1536,
+2025-03-20 14:45:01,216 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:01,218 - app_event - INFO - LHB
+2025-03-20 14:45:01,220 - app_event - INFO - distance_mm
+2025-03-20 14:45:01,221 - app_event - INFO - 2400
+2025-03-20 14:45:01,223 - app_event - INFO - initial_distance
+2025-03-20 14:45:01,224 - app_event - INFO - 2400
+2025-03-20 14:45:01,226 - app_event - INFO - result
+2025-03-20 14:45:01,228 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:01,229 - app_event - INFO - time_seconds
+2025-03-20 14:45:01,231 - app_event - INFO - 0.144
+2025-03-20 14:45:01,554 - app_event - INFO - C1,    23,  25  22  46  12  147590000,  1616,  1560,  1570,  1536,
+2025-03-20 14:45:01,778 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:01,781 - app_event - INFO - LHB
+2025-03-20 14:45:01,782 - app_event - INFO - distance_mm
+2025-03-20 14:45:01,783 - app_event - INFO - 2400
+2025-03-20 14:45:01,784 - app_event - INFO - initial_distance
+2025-03-20 14:45:01,785 - app_event - INFO - 2400
+2025-03-20 14:45:01,818 - app_event - INFO - result
+2025-03-20 14:45:01,821 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:01,823 - app_event - INFO - time_seconds
+2025-03-20 14:45:01,824 - app_event - INFO - 0.144
+2025-03-20 14:45:02,068 - app_event - INFO - C1,    24,  25  22  46  12  742482000,  1616,  1560,  1570,  1524,
+2025-03-20 14:45:02,300 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:02,302 - app_event - INFO - LHB
+2025-03-20 14:45:02,303 - app_event - INFO - distance_mm
+2025-03-20 14:45:02,304 - app_event - INFO - 2400
+2025-03-20 14:45:02,306 - app_event - INFO - initial_distance
+2025-03-20 14:45:02,307 - app_event - INFO - 2400
+2025-03-20 14:45:02,309 - app_event - INFO - result
+2025-03-20 14:45:02,311 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:02,312 - app_event - INFO - time_seconds
+2025-03-20 14:45:02,314 - app_event - INFO - 0.144
+2025-03-20 14:45:02,663 - app_event - INFO - C1,    25,  25  22  46  13  274456000,  1616,  1560,  1572,  1536,
+2025-03-20 14:45:02,837 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:02,838 - app_event - INFO - LHB
+2025-03-20 14:45:02,839 - app_event - INFO - distance_mm
+2025-03-20 14:45:02,840 - app_event - INFO - 2400
+2025-03-20 14:45:02,841 - app_event - INFO - initial_distance
+2025-03-20 14:45:02,843 - app_event - INFO - 2400
+2025-03-20 14:45:02,849 - app_event - INFO - result
+2025-03-20 14:45:02,851 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:02,852 - app_event - INFO - time_seconds
+2025-03-20 14:45:02,853 - app_event - INFO - 0.144
+2025-03-20 14:45:03,151 - app_event - INFO - C1,    26,  25  22  46  13  793571000,  1614,  1558,  1570,  1536,
+2025-03-20 14:45:03,374 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:03,376 - app_event - INFO - LHB
+2025-03-20 14:45:03,377 - app_event - INFO - distance_mm
+2025-03-20 14:45:03,378 - app_event - INFO - 2400
+2025-03-20 14:45:03,379 - app_event - INFO - initial_distance
+2025-03-20 14:45:03,381 - app_event - INFO - 2400
+2025-03-20 14:45:03,384 - app_event - INFO - result
+2025-03-20 14:45:03,387 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:03,389 - app_event - INFO - time_seconds
+2025-03-20 14:45:03,391 - app_event - INFO - 0.144
+2025-03-20 14:45:03,668 - app_event - INFO - C1,    27,  25  22  46  14  302967000,  1616,  1562,  1570,  1536,
+2025-03-20 14:45:03,825 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:03,827 - app_event - INFO - LHB
+2025-03-20 14:45:03,829 - app_event - INFO - distance_mm
+2025-03-20 14:45:03,830 - app_event - INFO - 2400
+2025-03-20 14:45:03,833 - app_event - INFO - initial_distance
+2025-03-20 14:45:03,839 - app_event - INFO - 2400
+2025-03-20 14:45:03,852 - app_event - INFO - result
+2025-03-20 14:45:03,854 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:03,856 - app_event - INFO - time_seconds
+2025-03-20 14:45:03,859 - app_event - INFO - 0.144
+2025-03-20 14:45:04,219 - app_event - INFO - C1,    28,  25  22  46  14  832639000,  1616,  1560,  1570,  1536,
+2025-03-20 14:45:04,400 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:04,402 - app_event - INFO - LHB
+2025-03-20 14:45:04,404 - app_event - INFO - distance_mm
+2025-03-20 14:45:04,406 - app_event - INFO - 2400
+2025-03-20 14:45:04,408 - app_event - INFO - initial_distance
+2025-03-20 14:45:04,410 - app_event - INFO - 2400
+2025-03-20 14:45:04,412 - app_event - INFO - result
+2025-03-20 14:45:04,414 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:04,416 - app_event - INFO - time_seconds
+2025-03-20 14:45:04,418 - app_event - INFO - 0.144
+2025-03-20 14:45:04,751 - app_event - INFO - C1,    29,  25  22  46  15  352212000,  1616,  1560,  1570,  1536,
+2025-03-20 14:45:04,952 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:04,956 - app_event - INFO - LHB
+2025-03-20 14:45:04,957 - app_event - INFO - distance_mm
+2025-03-20 14:45:04,958 - app_event - INFO - 2400
+2025-03-20 14:45:04,959 - app_event - INFO - initial_distance
+2025-03-20 14:45:04,960 - app_event - INFO - 2400
+2025-03-20 14:45:04,963 - app_event - INFO - result
+2025-03-20 14:45:04,965 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:04,968 - app_event - INFO - time_seconds
+2025-03-20 14:45:04,969 - app_event - INFO - 0.144
+2025-03-20 14:45:05,169 - app_event - INFO - C1,    30,  25  22  46  15  882782000,  1614,  1560,  1570,  1538,
+2025-03-20 14:45:05,347 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:05,349 - app_event - INFO - LHB
+2025-03-20 14:45:05,350 - app_event - INFO - distance_mm
+2025-03-20 14:45:05,352 - app_event - INFO - 2400
+2025-03-20 14:45:05,353 - app_event - INFO - initial_distance
+2025-03-20 14:45:05,355 - app_event - INFO - 2400
+2025-03-20 14:45:05,357 - app_event - INFO - result
+2025-03-20 14:45:05,358 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:05,361 - app_event - INFO - time_seconds
+2025-03-20 14:45:05,363 - app_event - INFO - 0.144
+2025-03-20 14:45:05,701 - app_event - INFO - C1,    31,  25  22  46  16  327210000,  1632,  1560,  1570,  1536,
+2025-03-20 14:45:05,895 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:05,897 - app_event - INFO - LHB
+2025-03-20 14:45:05,898 - app_event - INFO - distance_mm
+2025-03-20 14:45:05,899 - app_event - INFO - 2400
+2025-03-20 14:45:05,900 - app_event - INFO - initial_distance
+2025-03-20 14:45:05,901 - app_event - INFO - 2400
+2025-03-20 14:45:05,902 - app_event - INFO - result
+2025-03-20 14:45:05,904 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:05,906 - app_event - INFO - time_seconds
+2025-03-20 14:45:05,907 - app_event - INFO - 0.144
+2025-03-20 14:45:06,137 - app_event - INFO - C1,    32,  25  22  46  16  838223000,  1632,  1560,  1570,  1536,
+2025-03-20 14:45:06,347 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:06,348 - app_event - INFO - LHB
+2025-03-20 14:45:06,349 - app_event - INFO - distance_mm
+2025-03-20 14:45:06,350 - app_event - INFO - 2400
+2025-03-20 14:45:06,351 - app_event - INFO - initial_distance
+2025-03-20 14:45:06,352 - app_event - INFO - 2400
+2025-03-20 14:45:06,353 - app_event - INFO - result
+2025-03-20 14:45:06,354 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:06,355 - app_event - INFO - time_seconds
+2025-03-20 14:45:06,357 - app_event - INFO - 0.144
+2025-03-20 14:45:06,722 - app_event - INFO - C1,    33,  25  22  46  17  337460000,  1630,  1560,  1570,  1534,
+2025-03-20 14:45:06,923 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:06,925 - app_event - INFO - LHB
+2025-03-20 14:45:06,926 - app_event - INFO - distance_mm
+2025-03-20 14:45:06,929 - app_event - INFO - 2400
+2025-03-20 14:45:06,931 - app_event - INFO - initial_distance
+2025-03-20 14:45:06,932 - app_event - INFO - 2400
+2025-03-20 14:45:06,934 - app_event - INFO - result
+2025-03-20 14:45:06,935 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:06,936 - app_event - INFO - time_seconds
+2025-03-20 14:45:06,938 - app_event - INFO - 0.144
+2025-03-20 14:45:07,312 - app_event - INFO - C1,    34,  25  22  46  17  932868000,  1616,  1558,  1570,  1536,
+2025-03-20 14:45:07,504 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:07,506 - app_event - INFO - LHB
+2025-03-20 14:45:07,507 - app_event - INFO - distance_mm
+2025-03-20 14:45:07,510 - app_event - INFO - 2400
+2025-03-20 14:45:07,512 - app_event - INFO - initial_distance
+2025-03-20 14:45:07,512 - app_event - INFO - 2400
+2025-03-20 14:45:07,515 - app_event - INFO - result
+2025-03-20 14:45:07,517 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:07,518 - app_event - INFO - time_seconds
+2025-03-20 14:45:07,519 - app_event - INFO - 0.144
+2025-03-20 14:45:07,845 - app_event - INFO - C1,    35,  25  22  46  18  464533000,  1616,  1560,  1570,  1536,
+2025-03-20 14:45:08,066 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:08,067 - app_event - INFO - LHB
+2025-03-20 14:45:08,069 - app_event - INFO - distance_mm
+2025-03-20 14:45:08,070 - app_event - INFO - 2400
+2025-03-20 14:45:08,071 - app_event - INFO - initial_distance
+2025-03-20 14:45:08,072 - app_event - INFO - 2400
+2025-03-20 14:45:08,075 - app_event - INFO - result
+2025-03-20 14:45:08,078 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:08,080 - app_event - INFO - time_seconds
+2025-03-20 14:45:08,081 - app_event - INFO - 0.144
+2025-03-20 14:45:08,319 - app_event - INFO - C1,    35,  25  22  46  19    6544000,  1616,  1560,  1582,  1536,
+2025-03-20 14:45:08,533 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:08,535 - app_event - INFO - LHB
+2025-03-20 14:45:08,536 - app_event - INFO - distance_mm
+2025-03-20 14:45:08,537 - app_event - INFO - 2400
+2025-03-20 14:45:08,539 - app_event - INFO - initial_distance
+2025-03-20 14:45:08,540 - app_event - INFO - 2400
+2025-03-20 14:45:08,544 - app_event - INFO - result
+2025-03-20 14:45:08,547 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:08,548 - app_event - INFO - time_seconds
+2025-03-20 14:45:08,552 - app_event - INFO - 0.144
+2025-03-20 14:45:08,925 - app_event - INFO - C1,    37,  25  22  46  19  515732000,  1614,  1564,  1582,  1538,
+2025-03-20 14:45:09,206 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:09,208 - app_event - INFO - LHB
+2025-03-20 14:45:09,211 - app_event - INFO - distance_mm
+2025-03-20 14:45:09,213 - app_event - INFO - 2400
+2025-03-20 14:45:09,214 - app_event - INFO - initial_distance
+2025-03-20 14:45:09,215 - app_event - INFO - 2400
+2025-03-20 14:45:09,234 - app_event - INFO - result
+2025-03-20 14:45:09,235 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:09,236 - app_event - INFO - time_seconds
+2025-03-20 14:45:09,237 - app_event - INFO - 0.144
+2025-03-20 14:45:09,474 - app_event - INFO - C1,    38,  25  22  46  20  154766000,  1616,  1560,  1570,  1524,
+2025-03-20 14:45:09,649 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:09,655 - app_event - INFO - LHB
+2025-03-20 14:45:09,656 - app_event - INFO - distance_mm
+2025-03-20 14:45:09,659 - app_event - INFO - 2400
+2025-03-20 14:45:09,661 - app_event - INFO - initial_distance
+2025-03-20 14:45:09,664 - app_event - INFO - 2400
+2025-03-20 14:45:09,667 - app_event - INFO - result
+2025-03-20 14:45:09,672 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:09,674 - app_event - INFO - time_seconds
+2025-03-20 14:45:09,680 - app_event - INFO - 0.144
+2025-03-20 14:45:10,062 - app_event - INFO - C1,    39,  25  22  46  20  674425000,  1616,  1574,  1586,  1536,
+2025-03-20 14:45:10,238 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:10,240 - app_event - INFO - LHB
+2025-03-20 14:45:10,241 - app_event - INFO - distance_mm
+2025-03-20 14:45:10,242 - app_event - INFO - 2400
+2025-03-20 14:45:10,244 - app_event - INFO - initial_distance
+2025-03-20 14:45:10,245 - app_event - INFO - 2400
+2025-03-20 14:45:10,246 - app_event - INFO - result
+2025-03-20 14:45:10,248 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:10,249 - app_event - INFO - time_seconds
+2025-03-20 14:45:10,250 - app_event - INFO - 0.144
+2025-03-20 14:45:10,595 - app_event - INFO - C1,    39,  25  22  46  21  183811000,  1616,  1570,  1568,  1536,
+2025-03-20 14:45:10,807 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:10,809 - app_event - INFO - LHB
+2025-03-20 14:45:10,810 - app_event - INFO - distance_mm
+2025-03-20 14:45:10,812 - app_event - INFO - 2400
+2025-03-20 14:45:10,814 - app_event - INFO - initial_distance
+2025-03-20 14:45:10,816 - app_event - INFO - 2400
+2025-03-20 14:45:10,817 - app_event - INFO - result
+2025-03-20 14:45:10,819 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:10,820 - app_event - INFO - time_seconds
+2025-03-20 14:45:10,821 - app_event - INFO - 0.144
+2025-03-20 14:45:11,090 - app_event - INFO - C1,    41,  25  22  46  21  757688000,  1616,  1560,  1570,  1536,
+2025-03-20 14:45:11,276 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:11,279 - app_event - INFO - LHB
+2025-03-20 14:45:11,280 - app_event - INFO - distance_mm
+2025-03-20 14:45:11,281 - app_event - INFO - 2400
+2025-03-20 14:45:11,283 - app_event - INFO - initial_distance
+2025-03-20 14:45:11,284 - app_event - INFO - 2400
+2025-03-20 14:45:11,285 - app_event - INFO - result
+2025-03-20 14:45:11,286 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:11,287 - app_event - INFO - time_seconds
+2025-03-20 14:45:11,288 - app_event - INFO - 0.144
+2025-03-20 14:45:11,652 - app_event - INFO - C1,    42,  25  22  46  22  267220000,  1618,  1560,  1582,  1538,
+2025-03-20 14:45:11,835 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:11,836 - app_event - INFO - LHB
+2025-03-20 14:45:11,838 - app_event - INFO - distance_mm
+2025-03-20 14:45:11,839 - app_event - INFO - 2400
+2025-03-20 14:45:11,840 - app_event - INFO - initial_distance
+2025-03-20 14:45:11,841 - app_event - INFO - 2400
+2025-03-20 14:45:11,846 - app_event - INFO - result
+2025-03-20 14:45:11,847 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:11,848 - app_event - INFO - time_seconds
+2025-03-20 14:45:11,850 - app_event - INFO - 0.144
+2025-03-20 14:45:12,179 - app_event - INFO - C1,    43,  25  22  46  22  785845000,  1614,  1560,  1570,  1536,
+2025-03-20 14:45:12,382 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:12,384 - app_event - INFO - LHB
+2025-03-20 14:45:12,386 - app_event - INFO - distance_mm
+2025-03-20 14:45:12,387 - app_event - INFO - 2400
+2025-03-20 14:45:12,389 - app_event - INFO - initial_distance
+2025-03-20 14:45:12,390 - app_event - INFO - 2400
+2025-03-20 14:45:12,394 - app_event - INFO - result
+2025-03-20 14:45:12,395 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:12,397 - app_event - INFO - time_seconds
+2025-03-20 14:45:12,399 - app_event - INFO - 0.144
+2025-03-20 14:45:12,607 - app_event - INFO - C1,    44,  25  22  46  23  317855000,  1616,  1560,  1570,  1536,
+2025-03-20 14:45:12,818 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:12,820 - app_event - INFO - LHB
+2025-03-20 14:45:12,821 - app_event - INFO - distance_mm
+2025-03-20 14:45:12,822 - app_event - INFO - 2400
+2025-03-20 14:45:12,825 - app_event - INFO - initial_distance
+2025-03-20 14:45:12,829 - app_event - INFO - 2400
+2025-03-20 14:45:12,832 - app_event - INFO - result
+2025-03-20 14:45:12,834 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:12,835 - app_event - INFO - time_seconds
+2025-03-20 14:45:12,837 - app_event - INFO - 0.144
+2025-03-20 14:45:13,197 - app_event - INFO - C1,    45,  25  22  46  23  837991000,  1616,  1572,  1570,  1538,
+2025-03-20 14:45:13,391 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:13,393 - app_event - INFO - LHB
+2025-03-20 14:45:13,395 - app_event - INFO - distance_mm
+2025-03-20 14:45:13,396 - app_event - INFO - 2400
+2025-03-20 14:45:13,398 - app_event - INFO - initial_distance
+2025-03-20 14:45:13,400 - app_event - INFO - 2400
+2025-03-20 14:45:13,402 - app_event - INFO - result
+2025-03-20 14:45:13,404 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:13,405 - app_event - INFO - time_seconds
+2025-03-20 14:45:13,406 - app_event - INFO - 0.144
+2025-03-20 14:45:13,800 - app_event - INFO - C1,    46,  25  22  46  24  434208000,  1616,  1560,  1570,  1536,
+2025-03-20 14:45:13,988 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:13,990 - app_event - INFO - LHB
+2025-03-20 14:45:13,993 - app_event - INFO - distance_mm
+2025-03-20 14:45:13,995 - app_event - INFO - 2400
+2025-03-20 14:45:13,996 - app_event - INFO - initial_distance
+2025-03-20 14:45:13,998 - app_event - INFO - 2400
+2025-03-20 14:45:14,000 - app_event - INFO - result
+2025-03-20 14:45:14,001 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:14,002 - app_event - INFO - time_seconds
+2025-03-20 14:45:14,004 - app_event - INFO - 0.144
+2025-03-20 14:45:14,363 - app_event - INFO - C1,    47,  25  22  46  24  976301000,  1624,  1570,  1570,  1536,
+2025-03-20 14:45:14,536 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:14,537 - app_event - INFO - LHB
+2025-03-20 14:45:14,539 - app_event - INFO - distance_mm
+2025-03-20 14:45:14,540 - app_event - INFO - 2400
+2025-03-20 14:45:14,543 - app_event - INFO - initial_distance
+2025-03-20 14:45:14,544 - app_event - INFO - 2400
+2025-03-20 14:45:14,546 - app_event - INFO - result
+2025-03-20 14:45:14,548 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:14,550 - app_event - INFO - time_seconds
+2025-03-20 14:45:14,551 - app_event - INFO - 0.144
+2025-03-20 14:45:14,846 - app_event - INFO - C1,    48,  25  22  46  25  496377000,  1618,  1572,  1572,  1536,
+2025-03-20 14:45:15,053 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:15,054 - app_event - INFO - LHB
+2025-03-20 14:45:15,055 - app_event - INFO - distance_mm
+2025-03-20 14:45:15,057 - app_event - INFO - 2400
+2025-03-20 14:45:15,059 - app_event - INFO - initial_distance
+2025-03-20 14:45:15,060 - app_event - INFO - 2400
+2025-03-20 14:45:15,062 - app_event - INFO - result
+2025-03-20 14:45:15,063 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:15,064 - app_event - INFO - time_seconds
+2025-03-20 14:45:15,065 - app_event - INFO - 0.144
+2025-03-20 14:45:15,320 - app_event - INFO - C1,    49,  25  22  46  25  963335000,  1616,  1572,  1570,  1536,
+2025-03-20 14:45:15,505 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:15,506 - app_event - INFO - LHB
+2025-03-20 14:45:15,507 - app_event - INFO - distance_mm
+2025-03-20 14:45:15,510 - app_event - INFO - 2400
+2025-03-20 14:45:15,512 - app_event - INFO - initial_distance
+2025-03-20 14:45:15,512 - app_event - INFO - 2400
+2025-03-20 14:45:15,515 - app_event - INFO - result
+2025-03-20 14:45:15,516 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:15,517 - app_event - INFO - time_seconds
+2025-03-20 14:45:15,518 - app_event - INFO - 0.144
+2025-03-20 14:45:15,848 - app_event - INFO - C1,    49,  25  22  46  26  439411000,  1616,  1560,  1570,  1536,
+2025-03-20 14:45:16,054 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:16,055 - app_event - INFO - LHB
+2025-03-20 14:45:16,056 - app_event - INFO - distance_mm
+2025-03-20 14:45:16,057 - app_event - INFO - 2400
+2025-03-20 14:45:16,058 - app_event - INFO - initial_distance
+2025-03-20 14:45:16,061 - app_event - INFO - 2400
+2025-03-20 14:45:16,063 - app_event - INFO - result
+2025-03-20 14:45:16,064 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:16,064 - app_event - INFO - time_seconds
+2025-03-20 14:45:16,065 - app_event - INFO - 0.144
+2025-03-20 14:45:16,305 - app_event - INFO - C1,    51,  25  22  46  27   12339000,  1630,  1560,  1568,  1538,
+2025-03-20 14:45:16,500 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:16,501 - app_event - INFO - LHB
+2025-03-20 14:45:16,502 - app_event - INFO - distance_mm
+2025-03-20 14:45:16,503 - app_event - INFO - 2400
+2025-03-20 14:45:16,504 - app_event - INFO - initial_distance
+2025-03-20 14:45:16,506 - app_event - INFO - 2400
+2025-03-20 14:45:16,507 - app_event - INFO - result
+2025-03-20 14:45:16,510 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:16,512 - app_event - INFO - time_seconds
+2025-03-20 14:45:16,513 - app_event - INFO - 0.144
+2025-03-20 14:45:16,887 - app_event - INFO - C1,    52,  25  22  46  27  499300000,  1616,  1562,  1570,  1536,
+2025-03-20 14:45:17,080 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:17,082 - app_event - INFO - LHB
+2025-03-20 14:45:17,083 - app_event - INFO - distance_mm
+2025-03-20 14:45:17,083 - app_event - INFO - 2400
+2025-03-20 14:45:17,084 - app_event - INFO - initial_distance
+2025-03-20 14:45:17,085 - app_event - INFO - 2400
+2025-03-20 14:45:17,087 - app_event - INFO - result
+2025-03-20 14:45:17,088 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:17,089 - app_event - INFO - time_seconds
+2025-03-20 14:45:17,091 - app_event - INFO - 0.144
+2025-03-20 14:45:17,413 - app_event - INFO - C1,    53,  25  22  46  28   20269000,  1616,  1560,  1570,  1536,
+2025-03-20 14:45:17,633 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:17,634 - app_event - INFO - LHB
+2025-03-20 14:45:17,635 - app_event - INFO - distance_mm
+2025-03-20 14:45:17,637 - app_event - INFO - 2400
+2025-03-20 14:45:17,638 - app_event - INFO - initial_distance
+2025-03-20 14:45:17,640 - app_event - INFO - 2400
+2025-03-20 14:45:17,644 - app_event - INFO - result
+2025-03-20 14:45:17,646 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:17,648 - app_event - INFO - time_seconds
+2025-03-20 14:45:17,650 - app_event - INFO - 0.144
+2025-03-20 14:45:17,945 - app_event - INFO - C1,    54,  25  22  46  28  594553000,  1630,  1562,  1570,  1524,
+2025-03-20 14:45:18,134 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:18,135 - app_event - INFO - LHB
+2025-03-20 14:45:18,136 - app_event - INFO - distance_mm
+2025-03-20 14:45:18,137 - app_event - INFO - 2400
+2025-03-20 14:45:18,138 - app_event - INFO - initial_distance
+2025-03-20 14:45:18,139 - app_event - INFO - 2400
+2025-03-20 14:45:18,145 - app_event - INFO - result
+2025-03-20 14:45:18,146 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:18,147 - app_event - INFO - time_seconds
+2025-03-20 14:45:18,148 - app_event - INFO - 0.144
+2025-03-20 14:45:18,480 - app_event - INFO - C1,    55,  25  22  46  29   72477000,  1616,  1574,  1570,  1538,
+2025-03-20 14:45:18,797 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:18,798 - app_event - INFO - LHB
+2025-03-20 14:45:18,799 - app_event - INFO - distance_mm
+2025-03-20 14:45:18,801 - app_event - INFO - 2400
+2025-03-20 14:45:18,802 - app_event - INFO - initial_distance
+2025-03-20 14:45:18,803 - app_event - INFO - 2400
+2025-03-20 14:45:18,805 - app_event - INFO - result
+2025-03-20 14:45:18,806 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:18,809 - app_event - INFO - time_seconds
+2025-03-20 14:45:18,810 - app_event - INFO - 0.144
+2025-03-20 14:45:19,024 - app_event - INFO - C1,    56,  25  22  46  29  691313000,  1616,  1562,  1572,  1538,
+2025-03-20 14:45:19,221 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:19,222 - app_event - INFO - LHB
+2025-03-20 14:45:19,224 - app_event - INFO - distance_mm
+2025-03-20 14:45:19,226 - app_event - INFO - 2400
+2025-03-20 14:45:19,228 - app_event - INFO - initial_distance
+2025-03-20 14:45:19,230 - app_event - INFO - 2400
+2025-03-20 14:45:19,232 - app_event - INFO - result
+2025-03-20 14:45:19,234 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:19,235 - app_event - INFO - time_seconds
+2025-03-20 14:45:19,236 - app_event - INFO - 0.144
+2025-03-20 14:45:19,621 - app_event - INFO - C1,    56,  25  22  46  30  227188000,  1632,  1560,  1570,  1536,
+2025-03-20 14:45:19,799 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:19,801 - app_event - INFO - LHB
+2025-03-20 14:45:19,802 - app_event - INFO - distance_mm
+2025-03-20 14:45:19,803 - app_event - INFO - 2400
+2025-03-20 14:45:19,805 - app_event - INFO - initial_distance
+2025-03-20 14:45:19,809 - app_event - INFO - 2400
+2025-03-20 14:45:19,811 - app_event - INFO - result
+2025-03-20 14:45:19,812 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:19,814 - app_event - INFO - time_seconds
+2025-03-20 14:45:19,815 - app_event - INFO - 0.144
+2025-03-20 14:45:20,149 - app_event - INFO - C1,    58,  25  22  46  30  758607000,  1622,  1560,  1570,  1538,
+2025-03-20 14:45:20,513 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:20,515 - app_event - INFO - LHB
+2025-03-20 14:45:20,516 - app_event - INFO - distance_mm
+2025-03-20 14:45:20,517 - app_event - INFO - 2400
+2025-03-20 14:45:20,518 - app_event - INFO - initial_distance
+2025-03-20 14:45:20,519 - app_event - INFO - 2400
+2025-03-20 14:45:20,521 - app_event - INFO - result
+2025-03-20 14:45:20,522 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:20,527 - app_event - INFO - time_seconds
+2025-03-20 14:45:20,528 - app_event - INFO - 0.144
+2025-03-20 14:45:20,773 - app_event - INFO - C1,    59,  25  22  46  31  449672000,  1630,  1562,  1570,  1536,
+2025-03-20 14:45:20,964 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:20,966 - app_event - INFO - LHB
+2025-03-20 14:45:20,969 - app_event - INFO - distance_mm
+2025-03-20 14:45:20,970 - app_event - INFO - 2400
+2025-03-20 14:45:20,972 - app_event - INFO - initial_distance
+2025-03-20 14:45:20,973 - app_event - INFO - 2400
+2025-03-20 14:45:20,978 - app_event - INFO - result
+2025-03-20 14:45:20,980 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:20,981 - app_event - INFO - time_seconds
+2025-03-20 14:45:20,983 - app_event - INFO - 0.144
+2025-03-20 14:45:21,355 - app_event - INFO - C1,    59,  25  22  46  31  969865000,  1632,  1562,  1570,  1536,
+2025-03-20 14:45:21,549 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:21,550 - app_event - INFO - LHB
+2025-03-20 14:45:21,550 - app_event - INFO - distance_mm
+2025-03-20 14:45:21,552 - app_event - INFO - 2400
+2025-03-20 14:45:21,553 - app_event - INFO - initial_distance
+2025-03-20 14:45:21,556 - app_event - INFO - 2400
+2025-03-20 14:45:21,561 - app_event - INFO - result
+2025-03-20 14:45:21,562 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:21,565 - app_event - INFO - time_seconds
+2025-03-20 14:45:21,566 - app_event - INFO - 0.144
+2025-03-20 14:45:21,894 - app_event - INFO - C1,    61,  25  22  46  32  501573000,  1616,  1560,  1572,  1536,
+2025-03-20 14:45:22,108 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:22,110 - app_event - INFO - LHB
+2025-03-20 14:45:22,112 - app_event - INFO - distance_mm
+2025-03-20 14:45:22,112 - app_event - INFO - 2400
+2025-03-20 14:45:22,113 - app_event - INFO - initial_distance
+2025-03-20 14:45:22,115 - app_event - INFO - 2400
+2025-03-20 14:45:22,116 - app_event - INFO - result
+2025-03-20 14:45:22,117 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:22,118 - app_event - INFO - time_seconds
+2025-03-20 14:45:22,120 - app_event - INFO - 0.144
+2025-03-20 14:45:22,344 - app_event - INFO - C1,    62,  25  22  46  33   32775000,  1616,  1560,  1570,  1532,
+2025-03-20 14:45:22,537 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:22,539 - app_event - INFO - LHB
+2025-03-20 14:45:22,542 - app_event - INFO - distance_mm
+2025-03-20 14:45:22,545 - app_event - INFO - 2400
+2025-03-20 14:45:22,546 - app_event - INFO - initial_distance
+2025-03-20 14:45:22,547 - app_event - INFO - 2400
+2025-03-20 14:45:22,550 - app_event - INFO - result
+2025-03-20 14:45:22,553 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:22,554 - app_event - INFO - time_seconds
+2025-03-20 14:45:22,557 - app_event - INFO - 0.144
+2025-03-20 14:45:22,952 - app_event - INFO - C1,    63,  25  22  46  33  563331000,  1630,  1560,  1570,  1536,
+2025-03-20 14:45:23,143 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:23,145 - app_event - INFO - LHB
+2025-03-20 14:45:23,147 - app_event - INFO - distance_mm
+2025-03-20 14:45:23,148 - app_event - INFO - 2400
+2025-03-20 14:45:23,150 - app_event - INFO - initial_distance
+2025-03-20 14:45:23,151 - app_event - INFO - 2400
+2025-03-20 14:45:23,153 - app_event - INFO - result
+2025-03-20 14:45:23,154 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:23,155 - app_event - INFO - time_seconds
+2025-03-20 14:45:23,159 - app_event - INFO - 0.144
+2025-03-20 14:45:23,478 - app_event - INFO - C1,    64,  25  22  46  34  106452000,  1630,  1560,  1570,  1536,
+2025-03-20 14:45:23,761 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:23,762 - app_event - INFO - LHB
+2025-03-20 14:45:23,763 - app_event - INFO - distance_mm
+2025-03-20 14:45:23,764 - app_event - INFO - 2400
+2025-03-20 14:45:23,766 - app_event - INFO - initial_distance
+2025-03-20 14:45:23,766 - app_event - INFO - 2400
+2025-03-20 14:45:23,768 - app_event - INFO - result
+2025-03-20 14:45:23,769 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:23,771 - app_event - INFO - time_seconds
+2025-03-20 14:45:23,772 - app_event - INFO - 0.144
+2025-03-20 14:45:24,032 - app_event - INFO - C1,    65,  25  22  46  34  660312000,  1616,  1562,  1570,  1536,
+2025-03-20 14:45:24,198 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:24,200 - app_event - INFO - LHB
+2025-03-20 14:45:24,202 - app_event - INFO - distance_mm
+2025-03-20 14:45:24,203 - app_event - INFO - 2400
+2025-03-20 14:45:24,204 - app_event - INFO - initial_distance
+2025-03-20 14:45:24,205 - app_event - INFO - 2400
+2025-03-20 14:45:24,208 - app_event - INFO - result
+2025-03-20 14:45:24,210 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:24,211 - app_event - INFO - time_seconds
+2025-03-20 14:45:24,213 - app_event - INFO - 0.144
+2025-03-20 14:45:24,582 - app_event - INFO - C1,    66,  25  22  46  35  196965000,  1618,  1560,  1570,  1538,
+2025-03-20 14:45:24,771 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:24,772 - app_event - INFO - LHB
+2025-03-20 14:45:24,775 - app_event - INFO - distance_mm
+2025-03-20 14:45:24,777 - app_event - INFO - 2400
+2025-03-20 14:45:24,779 - app_event - INFO - initial_distance
+2025-03-20 14:45:24,781 - app_event - INFO - 2400
+2025-03-20 14:45:24,783 - app_event - INFO - result
+2025-03-20 14:45:24,784 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:24,785 - app_event - INFO - time_seconds
+2025-03-20 14:45:24,786 - app_event - INFO - 0.144
+2025-03-20 14:45:25,180 - app_event - INFO - C1,    67,  25  22  46  35  813532000,  1614,  1558,  1570,  1536,
+2025-03-20 14:45:25,446 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:25,447 - app_event - INFO - LHB
+2025-03-20 14:45:25,448 - app_event - INFO - distance_mm
+2025-03-20 14:45:25,450 - app_event - INFO - 2400
+2025-03-20 14:45:25,452 - app_event - INFO - initial_distance
+2025-03-20 14:45:25,453 - app_event - INFO - 2400
+2025-03-20 14:45:25,455 - app_event - INFO - result
+2025-03-20 14:45:25,456 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:25,457 - app_event - INFO - time_seconds
+2025-03-20 14:45:25,459 - app_event - INFO - 0.144
+2025-03-20 14:45:25,768 - app_event - INFO - C1,    68,  25  22  46  36  421482000,  1616,  1562,  1582,  1536,
+2025-03-20 14:45:25,967 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:25,969 - app_event - INFO - LHB
+2025-03-20 14:45:25,970 - app_event - INFO - distance_mm
+2025-03-20 14:45:25,971 - app_event - INFO - 2400
+2025-03-20 14:45:25,973 - app_event - INFO - initial_distance
+2025-03-20 14:45:25,975 - app_event - INFO - 2400
+2025-03-20 14:45:25,978 - app_event - INFO - result
+2025-03-20 14:45:25,982 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}
+2025-03-20 14:45:25,983 - app_event - INFO - time_seconds
+2025-03-20 14:45:25,985 - app_event - INFO - 0.144
+2025-03-20 14:45:26,368 - app_event - INFO - C1,    68,  25  22  46  36  974959000,  1616,  1562,  1582,  1536,
+2025-03-20 14:45:26,631 - app_event - INFO - loadtrain_type
+2025-03-20 14:45:26,632 - app_event - INFO - LHB
+2025-03-20 14:45:26,633 - app_event - INFO - distance_mm
+2025-03-20 14:45:26,635 - app_event - INFO - 2400
+2025-03-20 14:45:26,636 - app_event - INFO - initial_distance
+2025-03-20 14:45:26,637 - app_event - INFO - 2400
+2025-03-20 14:45:26,641 - app_event - INFO - result
+2025-03-20 14:45:26,643 - app_event - INFO - {'coach_type': 'LHB', 'distance_mm': 2400, 'speed_kmh': 60, 'time_microseconds': 144000.0, 'time_seconds': 0.144}

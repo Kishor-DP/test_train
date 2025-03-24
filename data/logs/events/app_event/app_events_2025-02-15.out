@@ -1,0 +1,450 @@
+2025-02-15 11:52:15,018 - app_event - INFO - process_start_stop_flag
+2025-02-15 11:52:16,254 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 11:52:47,628 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 11:57:10,544 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000']
+2025-02-15 11:59:13,111 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000']
+2025-02-15 12:02:58,885 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000', '00:17.800000']
+2025-02-15 12:03:12,912 - app_event - INFO - process_start_stop_flag
+2025-02-15 12:03:14,083 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 12:03:32,683 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 12:06:48,521 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000']
+2025-02-15 12:07:54,460 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000']
+2025-02-15 12:11:21,656 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000', '00:17.800000']
+2025-02-15 14:44:29,275 - app_event - INFO - process_start_stop_flag
+2025-02-15 14:44:30,336 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 14:44:55,538 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 14:48:00,426 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000']
+2025-02-15 14:48:09,170 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000']
+2025-02-15 14:50:27,875 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000', '00:17.800000']
+2025-02-15 15:30:55,089 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:30:56,155 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:30:56,332 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:30:56,908 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:30:57,032 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:30:57,418 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:30:57,521 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:30:57,856 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:30:57,959 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:30:58,321 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:30:58,412 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:30:58,681 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:30:58,785 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:30:59,080 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:30:59,172 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:30:59,448 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:30:59,530 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:30:59,798 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:30:59,886 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:00,353 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:00,461 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:00,818 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:00,908 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:01,165 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:01,257 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:01,527 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:01,615 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:01,974 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:02,071 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:02,352 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:02,450 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:02,729 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:02,823 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:03,095 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:03,175 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:03,431 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:03,519 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:03,803 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:03,891 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:04,154 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:04,237 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:04,593 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:04,679 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:04,958 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:05,042 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:05,293 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:05,380 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:05,633 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:05,715 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:06,071 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:06,152 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:06,413 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:06,499 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:06,761 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:06,847 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:07,115 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:07,196 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:07,460 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:07,548 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:07,895 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:07,983 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:08,227 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:08,314 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:08,561 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:08,644 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:08,891 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:08,978 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:09,226 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:09,306 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:09,571 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:09,660 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:09,922 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:10,006 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:10,302 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:10,391 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:10,733 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:10,847 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:11,298 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:11,384 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:11,690 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:11,795 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:12,086 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:12,185 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:12,452 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:12,548 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:12,848 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:12,935 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:13,214 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:13,298 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:13,516 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:13,603 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:13,988 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:14,085 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:14,331 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:14,421 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:15,178 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:15,316 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:15,737 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:15,831 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:16,099 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:16,186 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:16,613 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:16,707 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:17,012 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:17,092 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:17,338 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:17,416 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:17,729 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:17,815 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:18,109 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:31:18,199 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:43,986 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:31:44,530 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:32:11,370 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 15:33:48,851 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:33:49,374 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:34:12,908 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 15:40:44,108 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:40:45,194 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:41:12,733 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 15:45:00,429 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:45:01,344 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:45:36,047 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 15:47:55,500 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:47:55,955 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:49:08,829 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:49:09,342 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:49:33,637 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 15:53:14,034 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:53:14,656 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:56:52,270 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:56:52,908 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:57:43,872 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:57:44,381 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 15:59:40,321 - app_event - INFO - process_start_stop_flag
+2025-02-15 15:59:40,933 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:00:07,405 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 16:02:38,738 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:02:39,177 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:03:06,794 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 16:04:10,444 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:04:10,929 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:05:03,589 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:05:04,332 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:02,156 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:02,682 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:02,969 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:03,297 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:03,424 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:03,725 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:03,916 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:04,264 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:04,409 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:04,834 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:04,983 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:05,454 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:05,576 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:05,861 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:05,959 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:06,251 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:06,348 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:06,636 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:06,740 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:07,069 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:07,167 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:07,462 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:07,614 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:07,920 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:08,031 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:08,373 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:08,474 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:08,945 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:09,061 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:09,379 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:09,468 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:09,755 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:09,905 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:10,383 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:10,502 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:10,809 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:10,944 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:11,264 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:11,362 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:13:11,642 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:13:11,771 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:14:56,380 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:14:57,479 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:14:58,133 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:14:58,532 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:14:59,025 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:14:59,533 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:14:59,770 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:15:00,305 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:15:00,518 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:15:00,940 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:15:01,093 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:15:01,396 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:15:01,512 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:15:01,990 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:15:02,104 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:15:02,410 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:15:02,550 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:15:02,885 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:15:03,032 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:15:03,414 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:15:03,534 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:15:03,813 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:15:03,917 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:15:04,233 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:15:04,348 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:15:04,663 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:15:04,800 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:15:05,280 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:15:05,440 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:40,513 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:41,024 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:41,318 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:41,675 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:41,763 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:42,023 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:42,113 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:42,388 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:42,631 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:43,061 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:43,161 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:43,400 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:43,495 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:43,831 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:43,933 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:44,195 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:44,290 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:44,576 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:44,672 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:44,938 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:45,038 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:45,299 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:45,390 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:45,645 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:45,737 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:46,046 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:46,142 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:46,480 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:46,574 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:46,832 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:46,926 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:47,176 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:47,264 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:47,523 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:47,615 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:47,899 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:48,129 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:48,410 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:48,505 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:48,771 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:48,869 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:49,212 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:49,313 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:49,554 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:49,636 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:49,879 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:49,967 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:50,204 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:50,287 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:50,537 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:50,624 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:50,913 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:51,009 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:51,278 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:51,365 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:51,703 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:51,834 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:52,162 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:52,253 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:52,585 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:52,679 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:53,067 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:53,152 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:53,400 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:53,481 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:53,734 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:53,821 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:54,088 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:54,175 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:54,431 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:54,515 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:54,782 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:54,867 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:55,111 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:55,192 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:55,590 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:55,669 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:55,943 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:56,033 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:56,308 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:56,405 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:56,620 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:56,695 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:56,961 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:57,045 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:57,268 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:57,348 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:57,580 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:57,654 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:57,870 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:57,949 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:58,243 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:58,317 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:58,532 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:58,612 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:58,834 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:58,911 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:59,129 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:59,206 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:59,423 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:59,497 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:17:59,842 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:17:59,923 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:18:00,163 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:18:00,239 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:18:00,456 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:18:00,531 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:18:00,829 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:18:00,908 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:18:01,128 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:18:01,202 - app_event - INFO - process_start_stop_flag
+2025-02-15 16:18:01,452 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 16:18:01,540 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:05:53,811 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:05:55,045 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:05:55,589 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:05:55,932 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:05:56,115 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:05:56,486 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:05:56,663 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:05:57,112 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:05:57,361 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:05:57,911 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:05:58,029 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:05:58,328 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:05:58,447 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:05:58,767 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:05:58,888 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:05:59,169 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:05:59,265 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:05:59,514 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:05:59,625 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:05:59,905 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:00,009 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:00,320 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:00,426 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:00,692 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:00,791 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:01,051 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:01,157 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:01,519 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:01,623 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:01,921 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:02,027 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:02,287 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:02,385 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:02,646 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:02,745 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:03,169 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:03,271 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:03,532 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:03,632 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:03,914 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:04,018 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:04,391 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:04,494 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:04,759 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:04,849 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:05,112 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:05,215 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:05,474 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:05,564 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:05,809 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:05,897 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:06,134 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:06,226 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:06:06,471 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:06:06,569 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:37:27,989 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:37:29,014 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:37:59,568 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 17:42:03,082 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:42:03,632 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:42:27,167 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 17:42:30,633 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:42:31,154 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:42:54,210 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 17:42:57,770 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:42:58,217 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:43:16,822 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 17:43:19,818 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:43:20,286 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:43:44,121 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 17:43:47,761 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:43:48,223 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:44:10,934 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 17:44:14,848 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:44:15,401 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:44:38,970 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 17:44:43,218 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:44:44,255 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:46:53,452 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:46:54,258 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:47:17,314 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 17:47:21,734 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:47:22,553 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:47:45,079 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 17:47:48,063 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:47:48,544 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:48:09,660 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 17:48:12,411 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:48:12,815 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:48:31,320 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 17:48:33,899 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:48:34,268 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:48:56,984 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 17:49:00,316 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:49:00,873 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:49:23,278 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 17:49:26,663 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:49:27,515 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:49:48,555 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 17:49:51,878 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:49:52,735 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:50:19,819 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-15 17:50:24,507 - app_event - INFO - process_start_stop_flag
+2025-02-15 17:50:25,345 - app_event - INFO - Total video time: 04:10.000000
+2025-02-15 17:50:47,139 - app_event - INFO - self.timestamps list:['00:00.800000']

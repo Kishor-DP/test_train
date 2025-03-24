@@ -1,0 +1,7 @@
+{
+    "model_path": "C://data_video_processingapp/network_models/weights3/best.pt",
+    "video_path":"C://data_video_processingapp/input_videos/12.mp4",
+    "output_path": "C://data_video_processingapp/output/output.avi",
+    "bogieview_input_video_path":"C://data_video_processingapp/input_videos/rail1.mp4",
+    "output_frames":"output_frames"
+}

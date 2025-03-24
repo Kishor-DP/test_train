@@ -1,0 +1,159 @@
+2025-02-04 12:59:38,949 - app_event - INFO - process_start_stop_flag
+2025-02-04 12:59:40,234 - app_event - INFO - Total video time: 00:34.120000
+2025-02-04 14:44:47,650 - app_event - INFO - process_start_stop_flag
+2025-02-04 14:44:48,723 - app_event - INFO - Total video time: 00:34.120000
+2025-02-04 14:45:31,822 - app_event - INFO - process_start_stop_flag
+2025-02-04 14:45:32,262 - app_event - INFO - Total video time: 00:34.120000
+2025-02-04 14:46:13,295 - app_event - INFO - process_start_stop_flag
+2025-02-04 14:46:37,804 - app_event - INFO - process_start_stop_flag
+2025-02-04 14:46:38,236 - app_event - INFO - Total video time: 00:34.120000
+2025-02-04 14:49:00,183 - app_event - INFO - process_start_stop_flag
+2025-02-04 14:49:00,612 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 14:49:19,611 - app_event - INFO - Detected 'New Coach' at timestamp: 00:00.800000
+2025-02-04 14:52:06,907 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.400000
+2025-02-04 14:52:21,464 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.600000
+2025-02-04 14:54:22,547 - app_event - INFO - Detected 'New Coach' at timestamp: 00:17.800000
+2025-02-04 14:56:12,497 - app_event - INFO - Detected 'New Coach' at timestamp: 00:24.600000
+2025-02-04 14:56:31,541 - app_event - INFO - Detected 'New Coach' at timestamp: 00:25.400000
+2025-02-04 14:57:24,313 - app_event - INFO - Detected 'New Coach' at timestamp: 00:28.400000
+2025-02-04 14:57:34,296 - app_event - INFO - Detected 'New Coach' at timestamp: 00:28.600000
+2025-02-04 16:06:06,087 - app_event - INFO - process_start_stop_flag
+2025-02-04 16:06:07,226 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 16:06:29,850 - app_event - INFO - Detected 'New Coach' at timestamp: 00:00.800000
+2025-02-04 16:07:33,540 - app_event - INFO - process_start_stop_flag
+2025-02-04 16:07:33,959 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 16:07:52,612 - app_event - INFO - Detected 'New Coach' at timestamp: 00:00.800000
+2025-02-04 16:10:11,028 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.400000
+2025-02-04 16:10:18,784 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.600000
+2025-02-04 16:12:12,387 - app_event - INFO - Detected 'New Coach' at timestamp: 00:17.800000
+2025-02-04 16:21:06,001 - app_event - INFO - process_start_stop_flag
+2025-02-04 16:21:07,050 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 16:21:27,658 - app_event - INFO - Detected 'New Coach' at timestamp: 00:00.800000
+2025-02-04 16:23:48,781 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.400000
+2025-02-04 16:23:56,633 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.600000
+2025-02-04 16:25:58,938 - app_event - INFO - Detected 'New Coach' at timestamp: 00:17.800000
+2025-02-04 16:28:05,128 - app_event - INFO - Detected 'New Coach' at timestamp: 00:24.600000
+2025-02-04 16:28:22,397 - app_event - INFO - Detected 'New Coach' at timestamp: 00:25.400000
+2025-02-04 16:33:24,425 - app_event - INFO - process_start_stop_flag
+2025-02-04 16:33:24,904 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 16:33:44,599 - app_event - INFO - Detected 'New Coach' at timestamp: 00:00.800000
+2025-02-04 16:33:44,600 - app_event - INFO - self.timestamps list:[0.8]
+2025-02-04 16:36:10,315 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.400000
+2025-02-04 16:36:10,316 - app_event - INFO - self.timestamps list:[0.8, 10.4]
+2025-02-04 16:36:18,192 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.600000
+2025-02-04 16:36:18,193 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6]
+2025-02-04 16:38:09,881 - app_event - INFO - Detected 'New Coach' at timestamp: 00:17.800000
+2025-02-04 16:38:09,882 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8]
+2025-02-04 16:40:00,602 - app_event - INFO - Detected 'New Coach' at timestamp: 00:24.600000
+2025-02-04 16:40:00,604 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8, 24.6]
+2025-02-04 16:40:17,083 - app_event - INFO - Detected 'New Coach' at timestamp: 00:25.400000
+2025-02-04 16:40:17,084 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8, 24.6, 25.4]
+2025-02-04 16:41:09,635 - app_event - INFO - Detected 'New Coach' at timestamp: 00:28.400000
+2025-02-04 16:41:09,637 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8, 24.6, 25.4, 28.4]
+2025-02-04 16:41:17,658 - app_event - INFO - Detected 'New Coach' at timestamp: 00:28.600000
+2025-02-04 16:41:17,659 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8, 24.6, 25.4, 28.4, 28.6]
+2025-02-04 16:43:20,230 - app_event - INFO - process_start_stop_flag
+2025-02-04 16:43:20,782 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 16:43:40,918 - app_event - INFO - Detected 'New Coach' at timestamp: 00:00.800000
+2025-02-04 16:43:40,919 - app_event - INFO - self.timestamps list:[0.8]
+2025-02-04 16:45:12,430 - app_event - INFO - process_start_stop_flag
+2025-02-04 16:45:13,021 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 16:45:36,042 - app_event - INFO - Detected 'New Coach' at timestamp: 00:00.800000
+2025-02-04 16:45:36,042 - app_event - INFO - self.timestamps list:[0.8]
+2025-02-04 16:48:05,483 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.400000
+2025-02-04 16:48:05,484 - app_event - INFO - self.timestamps list:[0.8, 10.4]
+2025-02-04 16:48:13,326 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.600000
+2025-02-04 16:48:13,328 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6]
+2025-02-04 16:50:10,450 - app_event - INFO - Detected 'New Coach' at timestamp: 00:17.800000
+2025-02-04 16:50:10,452 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8]
+2025-02-04 16:52:18,905 - app_event - INFO - process_start_stop_flag
+2025-02-04 16:52:19,322 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 16:52:39,063 - app_event - INFO - Detected 'New Coach' at timestamp: 00:00.800000
+2025-02-04 16:52:39,064 - app_event - INFO - self.timestamps list:[0.8]
+2025-02-04 16:53:17,278 - app_event - INFO - process_start_stop_flag
+2025-02-04 16:53:17,692 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 16:53:35,883 - app_event - INFO - Detected 'New Coach' at timestamp: 00:00.800000
+2025-02-04 16:53:35,884 - app_event - INFO - self.timestamps list:[0.8]
+2025-02-04 16:55:07,366 - app_event - INFO - process_start_stop_flag
+2025-02-04 16:55:07,837 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 16:55:26,978 - app_event - INFO - Detected 'New Coach' at timestamp: 00:00.800000
+2025-02-04 16:55:26,980 - app_event - INFO - self.timestamps list:[0.8]
+2025-02-04 16:59:12,382 - app_event - INFO - process_start_stop_flag
+2025-02-04 16:59:12,812 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 16:59:31,492 - app_event - INFO - Detected 'New Coach' at timestamp: 00:00.800000
+2025-02-04 16:59:31,494 - app_event - INFO - self.timestamps list:[0.8]
+2025-02-04 17:01:57,075 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.400000
+2025-02-04 17:01:57,077 - app_event - INFO - self.timestamps list:[0.8, 10.4]
+2025-02-04 17:02:04,967 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.600000
+2025-02-04 17:02:04,968 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6]
+2025-02-04 17:03:09,140 - app_event - INFO - process_start_stop_flag
+2025-02-04 17:03:09,558 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 17:03:29,269 - app_event - INFO - Detected 'New Coach' at timestamp: 00:00.800000
+2025-02-04 17:03:29,271 - app_event - INFO - self.timestamps list:[0.8]
+2025-02-04 17:05:54,989 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.400000
+2025-02-04 17:05:54,990 - app_event - INFO - self.timestamps list:[0.8, 10.4]
+2025-02-04 17:06:02,875 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.600000
+2025-02-04 17:06:02,876 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6]
+2025-02-04 17:07:59,676 - app_event - INFO - Detected 'New Coach' at timestamp: 00:17.800000
+2025-02-04 17:07:59,678 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8]
+2025-02-04 17:09:56,014 - app_event - INFO - Detected 'New Coach' at timestamp: 00:24.600000
+2025-02-04 17:09:56,015 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8, 24.6]
+2025-02-04 17:10:13,094 - app_event - INFO - Detected 'New Coach' at timestamp: 00:25.400000
+2025-02-04 17:10:13,095 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8, 24.6, 25.4]
+2025-02-04 17:10:36,650 - app_event - INFO - process_start_stop_flag
+2025-02-04 17:10:37,188 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 17:10:55,926 - app_event - INFO - Detected 'New Coach' at timestamp: 00:00.800000
+2025-02-04 17:10:55,927 - app_event - INFO - self.timestamps list:[0.8]
+2025-02-04 17:13:18,978 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.400000
+2025-02-04 17:13:18,979 - app_event - INFO - self.timestamps list:[0.8, 10.4]
+2025-02-04 17:13:26,834 - app_event - INFO - Detected 'New Coach' at timestamp: 00:10.600000
+2025-02-04 17:13:26,835 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6]
+2025-02-04 17:15:16,549 - app_event - INFO - Detected 'New Coach' at timestamp: 00:17.800000
+2025-02-04 17:15:16,550 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8]
+2025-02-04 17:16:57,534 - app_event - INFO - Detected 'New Coach' at timestamp: 00:24.600000
+2025-02-04 17:16:57,535 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8, 24.6]
+2025-02-04 17:17:14,195 - app_event - INFO - Detected 'New Coach' at timestamp: 00:25.400000
+2025-02-04 17:17:14,197 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8, 24.6, 25.4]
+2025-02-04 17:18:01,992 - app_event - INFO - Detected 'New Coach' at timestamp: 00:28.400000
+2025-02-04 17:18:01,993 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8, 24.6, 25.4, 28.4]
+2025-02-04 17:18:09,842 - app_event - INFO - Detected 'New Coach' at timestamp: 00:28.600000
+2025-02-04 17:18:09,843 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8, 24.6, 25.4, 28.4, 28.6]
+2025-02-04 17:22:57,231 - app_event - INFO - Detected 'New Coach' at timestamp: 00:46.600000
+2025-02-04 17:22:57,234 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8, 24.6, 25.4, 28.4, 28.6, 46.6]
+2025-02-04 17:23:27,393 - app_event - INFO - Detected 'New Coach' at timestamp: 00:48.200000
+2025-02-04 17:23:27,394 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8, 24.6, 25.4, 28.4, 28.6, 46.6, 48.2]
+2025-02-04 17:23:52,872 - app_event - INFO - Detected 'New Coach' at timestamp: 00:49.400000
+2025-02-04 17:23:52,874 - app_event - INFO - self.timestamps list:[0.8, 10.4, 10.6, 17.8, 24.6, 25.4, 28.4, 28.6, 46.6, 48.2, 49.4]
+2025-02-04 17:24:09,756 - app_event - INFO - process_start_stop_flag
+2025-02-04 17:24:10,641 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 17:30:57,133 - app_event - INFO - process_start_stop_flag
+2025-02-04 17:30:57,616 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 17:32:44,704 - app_event - INFO - process_start_stop_flag
+2025-02-04 17:32:45,247 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 17:33:04,018 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-04 17:35:30,116 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000']
+2025-02-04 17:35:37,994 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000']
+2025-02-04 17:37:37,889 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000', '00:17.800000']
+2025-02-04 17:39:32,456 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000', '00:17.800000', '00:24.600000']
+2025-02-04 17:39:49,585 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000', '00:17.800000', '00:24.600000', '00:25.400000']
+2025-02-04 17:40:46,951 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000', '00:17.800000', '00:24.600000', '00:25.400000', '00:28.400000']
+2025-02-04 17:40:55,005 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000', '00:17.800000', '00:24.600000', '00:25.400000', '00:28.400000', '00:28.600000']
+2025-02-04 17:41:23,053 - app_event - INFO - process_start_stop_flag
+2025-02-04 17:41:23,479 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 17:41:42,654 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-04 17:44:11,059 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000']
+2025-02-04 17:47:44,162 - app_event - INFO - process_start_stop_flag
+2025-02-04 17:47:44,664 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 17:48:05,750 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-04 17:50:33,079 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000']
+2025-02-04 17:56:39,088 - app_event - INFO - process_start_stop_flag
+2025-02-04 17:56:39,612 - app_event - INFO - Total video time: 04:10.000000
+2025-02-04 17:56:59,649 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-04 17:59:24,823 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000']
+2025-02-04 17:59:34,883 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000']
+2025-02-04 18:01:25,050 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000', '00:17.800000']
+2025-02-04 18:03:14,092 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000', '00:17.800000', '00:24.600000']
+2025-02-04 18:03:38,643 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000', '00:17.800000', '00:24.600000', '00:25.400000']
+2025-02-04 18:04:39,942 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000', '00:17.800000', '00:24.600000', '00:25.400000', '00:28.400000']
+2025-02-04 18:04:57,543 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000', '00:17.800000', '00:24.600000', '00:25.400000', '00:28.400000', '00:28.600000']
+2025-02-04 18:09:44,416 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000', '00:17.800000', '00:24.600000', '00:25.400000', '00:28.400000', '00:28.600000', '00:46.600000']

@@ -1,0 +1,22 @@
+2025-02-07 11:32:37,948 - app_event - INFO - process_start_stop_flag
+2025-02-07 11:32:39,127 - app_event - INFO - Total video time: 04:10.000000
+2025-02-07 11:33:05,069 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-07 11:35:06,027 - app_event - INFO - process_start_stop_flag
+2025-02-07 11:35:06,469 - app_event - INFO - Total video time: 04:10.000000
+2025-02-07 11:45:28,580 - app_event - INFO - process_start_stop_flag
+2025-02-07 11:45:29,048 - app_event - INFO - Total video time: 04:10.000000
+2025-02-07 11:45:49,161 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-07 11:47:10,211 - app_event - INFO - process_start_stop_flag
+2025-02-07 11:47:10,650 - app_event - INFO - Total video time: 04:10.000000
+2025-02-07 12:54:17,780 - app_event - INFO - process_start_stop_flag
+2025-02-07 12:54:18,737 - app_event - INFO - Total video time: 04:10.000000
+2025-02-07 12:54:39,237 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-07 13:41:28,042 - app_event - INFO - process_start_stop_flag
+2025-02-07 13:41:28,605 - app_event - INFO - Total video time: 04:10.000000
+2025-02-07 13:41:47,839 - app_event - INFO - self.timestamps list:['00:00.800000']
+2025-02-07 13:44:59,234 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000']
+2025-02-07 13:46:03,774 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000']
+2025-02-07 13:49:22,967 - app_event - INFO - self.timestamps list:['00:00.800000', '00:10.400000', '00:10.600000', '00:17.800000']
+2025-02-07 14:18:05,851 - app_event - INFO - process_start_stop_flag
+2025-02-07 14:18:06,935 - app_event - INFO - Total video time: 04:10.000000
+2025-02-07 14:18:27,031 - app_event - INFO - self.timestamps list:['00:00.800000']

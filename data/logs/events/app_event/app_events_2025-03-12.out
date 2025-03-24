@@ -1,0 +1,608 @@
+2025-03-12 18:25:29,301 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:29,506 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:29,624 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:29,919 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:30,051 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:30,170 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:30,402 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:30,566 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:30,751 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:30,971 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:32,734 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:33,074 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:33,320 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:33,540 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:33,754 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:33,866 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:34,048 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:34,182 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:34,391 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:34,523 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:34,734 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:35,083 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:36,806 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:37,269 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:37,519 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:37,750 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:37,970 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:38,087 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:38,286 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:38,403 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:38,582 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:38,736 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:38,952 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:39,419 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:40,988 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:41,435 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:41,767 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:41,977 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:42,248 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:42,323 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:42,566 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:42,654 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:42,915 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:43,229 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:43,314 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:43,670 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:45,247 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:45,681 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:45,905 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:45,985 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:46,347 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:46,456 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:46,683 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:46,792 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:47,052 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:47,254 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:47,331 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:47,687 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:49,254 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:49,600 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:49,933 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:50,035 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:50,398 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:50,532 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:50,735 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:50,937 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:51,067 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:51,276 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:51,410 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:51,837 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:53,306 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:53,771 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:54,069 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:54,295 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:54,536 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:54,648 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:54,870 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:55,116 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:55,229 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:55,429 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:55,533 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:55,959 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:57,425 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:57,846 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:58,269 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:58,396 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:58,778 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:58,905 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:59,111 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:59,346 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:59,463 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:59,646 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:25:59,908 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:26:00,130 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:26:01,797 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:26:02,132 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:26:02,367 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:26:02,729 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:26:02,814 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:26:03,036 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:26:03,280 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:26:03,478 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:26:03,586 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:26:03,802 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:26:04,073 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:26:04,263 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:29:59,061 - app_event - INFO - s: 0
+2025-03-12 18:29:59,066 - app_event - INFO - s: 16
+2025-03-12 18:29:59,374 - app_event - INFO - LHB
+2025-03-12 18:29:59,377 - app_event - INFO - 2400
+2025-03-12 18:29:59,379 - app_event - INFO - 0.216
+2025-03-12 18:29:59,381 - app_event - INFO - 0.432
+2025-03-12 18:29:59,389 - app_event - INFO - s: 0.432
+2025-03-12 18:29:59,393 - app_event - INFO - s: 16
+2025-03-12 18:30:00,811 - app_event - INFO - LHB
+2025-03-12 18:30:00,813 - app_event - INFO - 2400
+2025-03-12 18:30:00,817 - app_event - INFO - 0.216
+2025-03-12 18:30:00,819 - app_event - INFO - 0.432
+2025-03-12 18:30:00,823 - app_event - INFO - s: 0.432
+2025-03-12 18:30:00,827 - app_event - INFO - s: 16
+2025-03-12 18:30:02,458 - app_event - INFO - LHB
+2025-03-12 18:30:02,460 - app_event - INFO - 2400
+2025-03-12 18:30:02,462 - app_event - INFO - 0.216
+2025-03-12 18:30:02,464 - app_event - INFO - 0.432
+2025-03-12 18:30:02,470 - app_event - INFO - s: 0.432
+2025-03-12 18:30:02,473 - app_event - INFO - s: 16
+2025-03-12 18:30:04,061 - app_event - INFO - LHB
+2025-03-12 18:30:04,064 - app_event - INFO - 2400
+2025-03-12 18:30:04,070 - app_event - INFO - 0.216
+2025-03-12 18:30:04,072 - app_event - INFO - 0.432
+2025-03-12 18:30:04,076 - app_event - INFO - s: 0.432
+2025-03-12 18:30:04,080 - app_event - INFO - s: 16
+2025-03-12 18:30:06,304 - app_event - INFO - LHB
+2025-03-12 18:30:06,306 - app_event - INFO - 2400
+2025-03-12 18:30:06,312 - app_event - INFO - 0.216
+2025-03-12 18:30:06,314 - app_event - INFO - 0.432
+2025-03-12 18:30:06,322 - app_event - INFO - s: 0.432
+2025-03-12 18:30:06,325 - app_event - INFO - s: 16
+2025-03-12 18:30:08,864 - app_event - INFO - LHB
+2025-03-12 18:30:08,865 - app_event - INFO - 2400
+2025-03-12 18:30:08,869 - app_event - INFO - 0.216
+2025-03-12 18:30:08,871 - app_event - INFO - 0.432
+2025-03-12 18:30:08,876 - app_event - INFO - s: 0.432
+2025-03-12 18:30:08,879 - app_event - INFO - s: 16
+2025-03-12 18:30:12,146 - app_event - INFO - LHB
+2025-03-12 18:30:12,148 - app_event - INFO - 2400
+2025-03-12 18:30:12,153 - app_event - INFO - 0.216
+2025-03-12 18:30:12,155 - app_event - INFO - 0.432
+2025-03-12 18:30:12,158 - app_event - INFO - s: 0.432
+2025-03-12 18:30:12,161 - app_event - INFO - s: 16
+2025-03-12 18:30:16,002 - app_event - INFO - LHB
+2025-03-12 18:30:16,004 - app_event - INFO - 2400
+2025-03-12 18:30:16,007 - app_event - INFO - 0.216
+2025-03-12 18:30:16,009 - app_event - INFO - 0.432
+2025-03-12 18:30:16,012 - app_event - INFO - s: 0.432
+2025-03-12 18:30:16,014 - app_event - INFO - s: 16
+2025-03-12 18:30:20,104 - app_event - INFO - LHB
+2025-03-12 18:30:20,107 - app_event - INFO - 2400
+2025-03-12 18:30:20,111 - app_event - INFO - 0.216
+2025-03-12 18:30:20,113 - app_event - INFO - 0.432
+2025-03-12 18:30:20,117 - app_event - INFO - s: 0.432
+2025-03-12 18:30:20,120 - app_event - INFO - s: 16
+2025-03-12 18:30:24,723 - app_event - INFO - LHB
+2025-03-12 18:30:24,725 - app_event - INFO - 2400
+2025-03-12 18:30:24,727 - app_event - INFO - 0.216
+2025-03-12 18:30:24,729 - app_event - INFO - 0.432
+2025-03-12 18:30:24,733 - app_event - INFO - s: 0.432
+2025-03-12 18:30:24,736 - app_event - INFO - s: 16
+2025-03-12 18:30:29,491 - app_event - INFO - LHB
+2025-03-12 18:30:29,493 - app_event - INFO - 2400
+2025-03-12 18:30:29,500 - app_event - INFO - 0.216
+2025-03-12 18:30:29,501 - app_event - INFO - 0.432
+2025-03-12 18:30:29,503 - app_event - INFO - s: 0.432
+2025-03-12 18:30:29,506 - app_event - INFO - s: 16
+2025-03-12 18:30:34,376 - app_event - INFO - LHB
+2025-03-12 18:30:34,378 - app_event - INFO - 2400
+2025-03-12 18:30:34,383 - app_event - INFO - 0.216
+2025-03-12 18:30:34,384 - app_event - INFO - 0.432
+2025-03-12 18:30:34,388 - app_event - INFO - s: 0.432
+2025-03-12 18:30:34,391 - app_event - INFO - s: 16
+2025-03-12 18:30:40,349 - app_event - INFO - LHB
+2025-03-12 18:30:40,352 - app_event - INFO - 2400
+2025-03-12 18:30:40,356 - app_event - INFO - 0.216
+2025-03-12 18:30:40,358 - app_event - INFO - 0.432
+2025-03-12 18:30:40,364 - app_event - INFO - s: 0.432
+2025-03-12 18:30:40,366 - app_event - INFO - s: 16
+2025-03-12 18:30:46,773 - app_event - INFO - LHB
+2025-03-12 18:30:46,775 - app_event - INFO - 2400
+2025-03-12 18:30:46,777 - app_event - INFO - 0.216
+2025-03-12 18:30:46,779 - app_event - INFO - 0.432
+2025-03-12 18:30:46,781 - app_event - INFO - s: 0.432
+2025-03-12 18:30:46,784 - app_event - INFO - s: 16
+2025-03-12 18:30:53,230 - app_event - INFO - LHB
+2025-03-12 18:30:53,232 - app_event - INFO - 2400
+2025-03-12 18:30:53,236 - app_event - INFO - 0.216
+2025-03-12 18:30:53,238 - app_event - INFO - 0.432
+2025-03-12 18:30:53,245 - app_event - INFO - s: 0.432
+2025-03-12 18:30:53,247 - app_event - INFO - s: 16
+2025-03-12 18:31:00,155 - app_event - INFO - LHB
+2025-03-12 18:31:00,157 - app_event - INFO - 2400
+2025-03-12 18:31:00,162 - app_event - INFO - 0.216
+2025-03-12 18:31:00,164 - app_event - INFO - 0.432
+2025-03-12 18:31:00,168 - app_event - INFO - s: 0.432
+2025-03-12 18:31:00,170 - app_event - INFO - s: 16
+2025-03-12 18:31:22,260 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:23,162 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:23,405 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:23,647 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:23,863 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:23,984 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:24,129 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:24,214 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:24,411 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:24,599 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:24,706 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:25,612 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:25,833 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:26,066 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:26,234 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:26,326 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:26,475 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:26,571 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:26,727 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:26,895 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:27,616 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:27,928 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:28,098 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:28,252 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:28,461 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:28,528 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:28,692 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:28,780 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:29,508 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:29,740 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:29,890 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:30,087 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:30,247 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:30,409 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:30,480 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:30,979 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:31,404 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:31,549 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:31,642 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:31,955 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:32,026 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:32,531 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:32,926 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:33,024 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:33,191 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:33,327 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:33,689 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:34,029 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:34,177 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:34,305 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:34,894 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:35,242 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:35,340 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:35,711 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:36,106 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:31:36,497 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:35:20,637 - app_event - INFO - s: 0
+2025-03-12 18:35:20,639 - app_event - INFO - s: 16
+2025-03-12 18:35:20,927 - app_event - INFO - WAGON
+2025-03-12 18:35:20,929 - app_event - INFO - 1900
+2025-03-12 18:35:20,935 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:20,937 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:20,945 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:20,947 - app_event - INFO - s: 16
+2025-03-12 18:35:21,708 - app_event - INFO - WAGON
+2025-03-12 18:35:21,710 - app_event - INFO - 1900
+2025-03-12 18:35:21,713 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:21,714 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:21,718 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:21,721 - app_event - INFO - s: 16
+2025-03-12 18:35:22,727 - app_event - INFO - WAGON
+2025-03-12 18:35:22,729 - app_event - INFO - 1900
+2025-03-12 18:35:22,732 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:22,734 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:22,736 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:22,739 - app_event - INFO - s: 16
+2025-03-12 18:35:23,930 - app_event - INFO - WAGON
+2025-03-12 18:35:23,932 - app_event - INFO - 1900
+2025-03-12 18:35:23,939 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:23,941 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:23,944 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:23,947 - app_event - INFO - s: 16
+2025-03-12 18:35:25,372 - app_event - INFO - WAGON
+2025-03-12 18:35:25,374 - app_event - INFO - 1900
+2025-03-12 18:35:25,379 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:25,381 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:25,386 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:25,388 - app_event - INFO - s: 16
+2025-03-12 18:35:26,848 - app_event - INFO - WAGON
+2025-03-12 18:35:26,850 - app_event - INFO - 1900
+2025-03-12 18:35:26,858 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:26,860 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:26,862 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:26,865 - app_event - INFO - s: 16
+2025-03-12 18:35:28,655 - app_event - INFO - WAGON
+2025-03-12 18:35:28,657 - app_event - INFO - 1900
+2025-03-12 18:35:28,660 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:28,663 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:28,667 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:28,669 - app_event - INFO - s: 16
+2025-03-12 18:35:30,726 - app_event - INFO - WAGON
+2025-03-12 18:35:30,728 - app_event - INFO - 1900
+2025-03-12 18:35:30,738 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:30,740 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:30,742 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:30,745 - app_event - INFO - s: 16
+2025-03-12 18:35:32,995 - app_event - INFO - WAGON
+2025-03-12 18:35:32,996 - app_event - INFO - 1900
+2025-03-12 18:35:32,999 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:33,001 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:33,003 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:33,005 - app_event - INFO - s: 16
+2025-03-12 18:35:35,385 - app_event - INFO - WAGON
+2025-03-12 18:35:35,386 - app_event - INFO - 1900
+2025-03-12 18:35:35,389 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:35,391 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:35,394 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:35,396 - app_event - INFO - s: 16
+2025-03-12 18:35:38,149 - app_event - INFO - WAGON
+2025-03-12 18:35:38,151 - app_event - INFO - 1900
+2025-03-12 18:35:38,155 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:38,157 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:38,158 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:38,161 - app_event - INFO - s: 16
+2025-03-12 18:35:41,187 - app_event - INFO - WAGON
+2025-03-12 18:35:41,189 - app_event - INFO - 1900
+2025-03-12 18:35:41,191 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:41,193 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:41,197 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:41,199 - app_event - INFO - s: 16
+2025-03-12 18:35:44,580 - app_event - INFO - WAGON
+2025-03-12 18:35:44,582 - app_event - INFO - 1900
+2025-03-12 18:35:44,586 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:44,587 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:44,589 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:44,591 - app_event - INFO - s: 16
+2025-03-12 18:35:48,120 - app_event - INFO - WAGON
+2025-03-12 18:35:48,122 - app_event - INFO - 1900
+2025-03-12 18:35:48,125 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:48,127 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:48,132 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:48,136 - app_event - INFO - s: 16
+2025-03-12 18:35:51,883 - app_event - INFO - WAGON
+2025-03-12 18:35:51,884 - app_event - INFO - 1900
+2025-03-12 18:35:51,887 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:51,888 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:51,890 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:51,893 - app_event - INFO - s: 16
+2025-03-12 18:35:55,726 - app_event - INFO - WAGON
+2025-03-12 18:35:55,728 - app_event - INFO - 1900
+2025-03-12 18:35:55,731 - app_event - INFO - 0.13679999999999998
+2025-03-12 18:35:55,734 - app_event - INFO - 0.27359999999999995
+2025-03-12 18:35:55,737 - app_event - INFO - s: 0.27359999999999995
+2025-03-12 18:35:55,740 - app_event - INFO - s: 16
+2025-03-12 18:36:17,846 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:17,981 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:18,218 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:18,368 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:18,557 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:18,630 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:18,714 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:18,769 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:18,862 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:19,029 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:19,108 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:20,271 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:20,618 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:20,679 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:20,853 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:20,926 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:21,003 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:21,100 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:21,164 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:21,348 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:22,380 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:22,657 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:22,810 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:22,896 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:22,980 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:23,046 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:23,139 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:23,299 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:24,316 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:24,548 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:24,738 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:24,795 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:24,866 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:24,949 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:25,146 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:25,864 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:26,199 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:26,268 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:26,357 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:26,447 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:26,597 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:27,217 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:27,446 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:27,612 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:27,699 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:27,932 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:28,513 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:28,761 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:28,846 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:28,962 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:29,629 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:29,782 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:29,877 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:30,329 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:30,529 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:36:30,955 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:40:19,213 - app_event - INFO - s: 0
+2025-03-12 18:40:19,217 - app_event - INFO - s: 16
+2025-03-12 18:40:54,157 - app_event - INFO - s: 0
+2025-03-12 18:40:54,159 - app_event - INFO - s: 16
+2025-03-12 18:41:56,000 - app_event - INFO - s: 0
+2025-03-12 18:41:56,003 - app_event - INFO - s: 16
+2025-03-12 18:41:56,424 - app_event - INFO - LHB
+2025-03-12 18:41:56,426 - app_event - INFO - 2400
+2025-03-12 18:41:56,430 - app_event - INFO - 0.144
+2025-03-12 18:41:56,432 - app_event - INFO - 0.288
+2025-03-12 18:41:56,438 - app_event - INFO - s: 0.288
+2025-03-12 18:41:56,440 - app_event - INFO - s: 16
+2025-03-12 18:41:57,804 - app_event - INFO - LHB
+2025-03-12 18:41:57,806 - app_event - INFO - 2400
+2025-03-12 18:41:57,811 - app_event - INFO - 0.144
+2025-03-12 18:41:57,813 - app_event - INFO - 0.288
+2025-03-12 18:41:57,820 - app_event - INFO - s: 0.288
+2025-03-12 18:41:57,823 - app_event - INFO - s: 16
+2025-03-12 18:41:59,457 - app_event - INFO - LHB
+2025-03-12 18:41:59,460 - app_event - INFO - 2400
+2025-03-12 18:41:59,465 - app_event - INFO - 0.144
+2025-03-12 18:41:59,467 - app_event - INFO - 0.288
+2025-03-12 18:41:59,471 - app_event - INFO - s: 0.288
+2025-03-12 18:41:59,473 - app_event - INFO - s: 16
+2025-03-12 18:42:01,312 - app_event - INFO - LHB
+2025-03-12 18:42:01,314 - app_event - INFO - 2400
+2025-03-12 18:42:01,317 - app_event - INFO - 0.144
+2025-03-12 18:42:01,318 - app_event - INFO - 0.288
+2025-03-12 18:42:01,320 - app_event - INFO - s: 0.288
+2025-03-12 18:42:01,323 - app_event - INFO - s: 16
+2025-03-12 18:42:03,860 - app_event - INFO - LHB
+2025-03-12 18:42:03,861 - app_event - INFO - 2400
+2025-03-12 18:42:03,864 - app_event - INFO - 0.144
+2025-03-12 18:42:03,866 - app_event - INFO - 0.288
+2025-03-12 18:42:03,868 - app_event - INFO - s: 0.288
+2025-03-12 18:42:03,870 - app_event - INFO - s: 16
+2025-03-12 18:42:06,597 - app_event - INFO - LHB
+2025-03-12 18:42:06,599 - app_event - INFO - 2400
+2025-03-12 18:42:06,602 - app_event - INFO - 0.144
+2025-03-12 18:42:06,604 - app_event - INFO - 0.288
+2025-03-12 18:42:06,613 - app_event - INFO - s: 0.288
+2025-03-12 18:42:06,615 - app_event - INFO - s: 16
+2025-03-12 18:42:09,857 - app_event - INFO - LHB
+2025-03-12 18:42:09,859 - app_event - INFO - 2400
+2025-03-12 18:42:09,861 - app_event - INFO - 0.144
+2025-03-12 18:42:09,863 - app_event - INFO - 0.288
+2025-03-12 18:42:09,865 - app_event - INFO - s: 0.288
+2025-03-12 18:42:09,868 - app_event - INFO - s: 16
+2025-03-12 18:42:13,094 - app_event - INFO - LHB
+2025-03-12 18:42:13,096 - app_event - INFO - 2400
+2025-03-12 18:42:13,101 - app_event - INFO - 0.144
+2025-03-12 18:42:13,102 - app_event - INFO - 0.288
+2025-03-12 18:42:13,104 - app_event - INFO - s: 0.288
+2025-03-12 18:42:13,107 - app_event - INFO - s: 16
+2025-03-12 18:42:17,076 - app_event - INFO - LHB
+2025-03-12 18:42:17,078 - app_event - INFO - 2400
+2025-03-12 18:42:17,137 - app_event - INFO - 0.144
+2025-03-12 18:42:17,139 - app_event - INFO - 0.288
+2025-03-12 18:42:17,143 - app_event - INFO - s: 0.288
+2025-03-12 18:42:17,145 - app_event - INFO - s: 16
+2025-03-12 18:42:21,744 - app_event - INFO - LHB
+2025-03-12 18:42:21,747 - app_event - INFO - 2400
+2025-03-12 18:42:21,751 - app_event - INFO - 0.144
+2025-03-12 18:42:21,752 - app_event - INFO - 0.288
+2025-03-12 18:42:21,753 - app_event - INFO - s: 0.288
+2025-03-12 18:42:21,758 - app_event - INFO - s: 16
+2025-03-12 18:42:26,739 - app_event - INFO - LHB
+2025-03-12 18:42:26,741 - app_event - INFO - 2400
+2025-03-12 18:42:26,743 - app_event - INFO - 0.144
+2025-03-12 18:42:26,744 - app_event - INFO - 0.288
+2025-03-12 18:42:26,750 - app_event - INFO - s: 0.288
+2025-03-12 18:42:26,752 - app_event - INFO - s: 16
+2025-03-12 18:42:31,940 - app_event - INFO - LHB
+2025-03-12 18:42:31,941 - app_event - INFO - 2400
+2025-03-12 18:42:31,943 - app_event - INFO - 0.144
+2025-03-12 18:42:31,945 - app_event - INFO - 0.288
+2025-03-12 18:42:31,952 - app_event - INFO - s: 0.288
+2025-03-12 18:42:31,956 - app_event - INFO - s: 16
+2025-03-12 18:42:37,741 - app_event - INFO - LHB
+2025-03-12 18:42:37,744 - app_event - INFO - 2400
+2025-03-12 18:42:37,747 - app_event - INFO - 0.144
+2025-03-12 18:42:37,749 - app_event - INFO - 0.288
+2025-03-12 18:42:37,751 - app_event - INFO - s: 0.288
+2025-03-12 18:42:37,753 - app_event - INFO - s: 16
+2025-03-12 18:42:44,047 - app_event - INFO - LHB
+2025-03-12 18:42:44,048 - app_event - INFO - 2400
+2025-03-12 18:42:44,053 - app_event - INFO - 0.144
+2025-03-12 18:42:44,055 - app_event - INFO - 0.288
+2025-03-12 18:42:44,058 - app_event - INFO - s: 0.288
+2025-03-12 18:42:44,061 - app_event - INFO - s: 16
+2025-03-12 18:42:50,743 - app_event - INFO - LHB
+2025-03-12 18:42:50,745 - app_event - INFO - 2400
+2025-03-12 18:42:50,749 - app_event - INFO - 0.144
+2025-03-12 18:42:50,751 - app_event - INFO - 0.288
+2025-03-12 18:42:50,753 - app_event - INFO - s: 0.288
+2025-03-12 18:42:50,756 - app_event - INFO - s: 16
+2025-03-12 18:42:57,639 - app_event - INFO - LHB
+2025-03-12 18:42:57,640 - app_event - INFO - 2400
+2025-03-12 18:42:57,644 - app_event - INFO - 0.144
+2025-03-12 18:42:57,646 - app_event - INFO - 0.288
+2025-03-12 18:42:57,650 - app_event - INFO - s: 0.288
+2025-03-12 18:42:57,652 - app_event - INFO - s: 16
+2025-03-12 18:43:20,951 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:23,276 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:23,310 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:23,540 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:23,675 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:23,784 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:23,894 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:24,013 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:24,149 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:24,316 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:24,450 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:24,582 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:24,706 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:24,812 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:27,865 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:28,143 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:28,311 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:28,498 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:28,588 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:28,761 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:28,963 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:29,026 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:29,281 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:29,307 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:29,365 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:29,476 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:31,899 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:32,120 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:32,374 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:32,459 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:32,574 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:32,644 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:32,895 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:32,921 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:33,108 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:33,231 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:33,442 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:35,426 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:35,626 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:35,899 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:36,010 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:36,131 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:36,351 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:36,432 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:36,541 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:36,693 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:36,893 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:38,627 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:39,112 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:39,144 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:39,199 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:39,335 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:39,391 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:39,491 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:39,640 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:39,715 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:41,476 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:41,592 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:41,875 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:41,931 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:42,008 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:42,106 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:42,262 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:42,339 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:44,007 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:44,226 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:44,343 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:44,441 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:44,526 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:44,656 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:44,746 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:46,112 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:46,297 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:46,393 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:46,494 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:46,655 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:46,771 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:47,862 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:48,090 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:48,222 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:48,429 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:48,464 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:49,388 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:49,491 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:49,765 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:50,028 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:50,889 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:51,013 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:51,114 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:51,940 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:52,126 - app_event - INFO - TrainEnd.......Done
+2025-03-12 18:43:52,795 - app_event - INFO - TrainEnd.......Done
