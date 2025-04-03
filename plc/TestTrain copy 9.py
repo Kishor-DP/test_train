@@ -241,8 +241,7 @@ class OPCUAClient:
         if not self.client:
             print("Client is not connected. Cannot write to the node.")
             return
-        timesleep = 0.1
-        max_sleep = 2.0  # Set an upper limit if needed
+
         try:
             
             while iterations < max_iterations :
@@ -254,11 +253,7 @@ class OPCUAClient:
                 self.loop2_event.wait()  # Wait for Loop 2 to finish
                 self.loop2_event.clear()  # Reset the event for the next iteration
                 # Get the node using the provided NodeId and namespace index
-                
-
-                #time.sleep(15.221276)
-                timesleep = min(timesleep + 0.1, max_sleep)
-                app_event.info(f"timesleep:{timesleep}")
+                time.sleep(self.time_seconds)
                 node = self.client.get_node(ua.NodeId(node_id, namespace_index))
                 
                 # Write True to the node

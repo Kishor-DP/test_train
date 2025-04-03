@@ -330,7 +330,7 @@ class ModernUIApp:
         if not user_input:
             raise ValueError("Please enter a value in the text field.")
         threading.Thread(target=self.plc_program).start()
-        
+        #self.plc_program_trainend()
     # Simulate processing and update UI
     def process_data(self):
         try:

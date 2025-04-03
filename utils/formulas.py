@@ -65,7 +65,7 @@ class calculator:
         
         print(f"Distance between Axle {distance_m} and Axle {distance_m}: {distance_mm:.2f} millimeters")
 # Example usage
-calculator = calculator()
+#calculator = calculator()
 # result = calculator.get_time_for_coach_type(60, 2800)  # Speed: 60 km/h, Distance: 2800 mm
 # print(result)
 # calculator = calculator()
@@ -73,4 +73,4 @@ calculator = calculator()
 
 # # Proper print formatting
 # print(f"Time taken: ({time_taken_us:.2f}microsec) µs ({time_taken_s:.6f} s)")
-calculator.xyz()
+#calculator.xyz()

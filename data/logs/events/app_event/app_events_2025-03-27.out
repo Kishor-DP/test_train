@@ -1,0 +1,9 @@
+2025-03-27 12:12:51,277 - app_event - INFO - timestamp_c1111111111111111111111111
+2025-03-27 12:12:51,282 - app_event - INFO - 2000-01-01 22:17:59
+2025-03-27 12:12:51,284 - app_event - INFO - time_diff
+2025-03-27 12:12:51,285 - app_event - INFO - 4.536
+2025-03-27 12:12:51,286 - app_event - INFO - time_diff
+2025-03-27 12:12:51,288 - app_event - INFO - 4.536
+2025-03-27 12:12:51,289 - app_event - INFO - distance_mm
+2025-03-27 12:12:51,290 - app_event - INFO - 7.0
+2025-03-27 12:12:51,291 - app_event - INFO - 7000.0

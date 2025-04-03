@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-03-21T14:44:30.293032",
-    "data": "TrainEnd.......Done",
-    "c1value": null,
-    "iteration": 0,
-    "siterations": null,
+    "timestamp": "2025-04-01T10:38:38.935498",
+    "data": "SProxy: S,    40,   6  18  39  34   27313000,   ",
+    "c1value": "C1,    39,   6  18  39  33  295410000,   887,   887,",
+    "iteration": 39,
+    "siterations": 40,
     "status": "OK",
-    "location": "Pune"
+    "location": "Pun"
 }
