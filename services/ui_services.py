@@ -16,11 +16,11 @@ from utils.formulas import calculator
 
 
 # Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-    filename="app.log"
-)
+# logging.basicConfig(
+#     level=logging.INFO,
+#     format="%(asctime)s - %(levelname)s - %(message)s",
+#     filename="app.log"
+# )
 
 # Tooltip class
 # class ToolTip:
