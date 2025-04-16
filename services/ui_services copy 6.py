@@ -8,7 +8,6 @@ import logging
 from utils.common_utils import ToolTip
 from utils.styles import styles
 from plc.TestTrain import OPCUAClient 
-from plc.writecsensor import OPCUAClient as PLC
 from utils.db_utils import DatabaseConnection
 from utils.json_utils import LOADdata
 from utils.formulas import calculator
@@ -313,34 +312,24 @@ class ModernUIApp:
         print("Initializing TrainEnd thread")
         train_end_thread = threading.Thread(target=TrainEnd, daemon=True)
         train_end_thread.start()
-
-    def writecsensor(self):
-        
-        opc = PLC()
-        opc.connect()
-        opc.write_c_sensor()
-        opc.disconnect()
     # Button click event handler
     def on_button_click(self):
         # Show the progress bar and start animation
         self.progress.grid()
         self.progress["value"] = 0
         #self.progress.config(maximum=100)
-        #self.plc_program_trainend()
+        self.plc_program_trainend()
         # Disable the button to prevent multiple clicks
         self.button.config(state=tk.DISABLED)
         self.save_preferences()
-        #self.button.config(state=tk.NORMAL)
         # self.plc_program()
         # Start a thread to simulate processing
-        #self.process_data()
         threading.Thread(target=self.process_data).start()
         # Get selected values
         user_input = self.entry.get()
         if not user_input:
             raise ValueError("Please enter a value in the text field.")
-        #self.writecsensor()
-        threading.Thread(target=self.writecsensor).start()
+        threading.Thread(target=self.plc_program).start()
         #self.plc_program_trainend()
     # Simulate processing and update UI
     def process_data(self):
@@ -406,14 +395,9 @@ class ModernUIApp:
                     self.progress.config(maximum=totalnoof_axles)
                     self.root.update_idletasks()
                     if value_iteration==0 and value=="TrainEnd.......Done":
-                        
                         self.button.config(state=tk.NORMAL)
                         totalnoof_axles=calc.convert_coachto_axles(coachtypevalue)
                         self.progress.config(maximum=totalnoof_axles)
-                    if not value =="TrainEnd.......Done":
-                        self.button.config(state=tk.DISABLED)
-                    else:
-                        self.button.config(state=tk.NORMAL)
                     #    change_counter=-2
                         #previous_value=None
                     # if change_counter==-2 and value=="TrainEnd.......Done":

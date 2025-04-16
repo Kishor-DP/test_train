@@ -48,7 +48,7 @@ class OPCUAClient:
                     nodec.set_value(data_value)
                     print(f"Successfully wrote {value} to NodeId '{nodec.nodeid.Identifier}' in Namespace '{nodec.nodeid.NamespaceIndex}'.")
 
-                    time.sleep(0.6)  # Sleep to mimic delay
+                    time.sleep(0)  # Sleep to mimic delay
 
                     value = False
                     value_to_write = ua.Variant(value, ua.VariantType.Boolean)
@@ -74,7 +74,7 @@ class OPCUAClient:
                 
                 # nodec.set_value(data_value)
                 
-                time.sleep(5)
+                time.sleep(5.5)
                 for _ in range(2):
                     value = True
                     value_to_write = ua.Variant(value, ua.VariantType.Boolean)

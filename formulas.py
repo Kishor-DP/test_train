@@ -78,7 +78,7 @@ class calculator:
         
         timestamp_c1 = self.convert_to_datetime(timestamp1)
         #app_event.info("timestamp_c1111111111111111111111111")
-        app_event.info(timestamp_c1)
+        #app_event.info(timestamp_c1)
         #timestamp2='7   0  29  19  602330000'
         timestamp_c1_2 = self.convert_to_datetime(timestamp2)
         time_diff = abs((timestamp_c1_2 - timestamp_c1).total_seconds())
@@ -89,14 +89,14 @@ class calculator:
             self.initial_distance=14.50
             speed_mps = self.initial_distance / time_diff
             speed_kmph = speed_mps * 3.6
-            print("c proxy time_diff,speed_mps,speed_kmph",time_diff,speed_mps,speed_kmph)
+            #print("c proxy speed: time_diff,speed_mps,speed_kmph",time_diff,speed_mps,speed_kmph)
             #self.speed_mps=speed_mps
         else:
             speed_kmph = 0
         c1_timestamp="7   0  29  19  384855000"
-        s1_timestamp="7   0  29  22  602330000"
+        s1_timestamp="7   0  29  23  384855000"
         speed=calculator.calculate_speed(c1_timestamp,s1_timestamp)
-        print(speed)
+        print("S proxy time differece:",speed)
         speed_kmph1=speed#-220#240.028#speed_kmph#speed_mps
         # time_diff = abs((timestamp_s1 - timestamp_c1).total_seconds())
         # app_event.info("time_diff")
@@ -116,7 +116,7 @@ class calculator:
         try:
             # Clean the timestamp by removing commas and multiple spaces
             cleaned_timestamp = " ".join(timestamp.replace(",", "").split())
-            print(cleaned_timestamp)
+            #print(cleaned_timestamp)
             parts = cleaned_timestamp.split()
             if len(parts) < 5:
                 print(f"Invalid timestamp format: {timestamp}")
@@ -130,7 +130,7 @@ class calculator:
             #milisec= int(parts[6])
             #combined=int(nanoseconds + milisec)
             
-            print("h",hours,"m",minutes,"sec",seconds,"nanosec",nanoseconds)
+            #print("h",hours,"m",minutes,"sec",seconds,"nanosec",nanoseconds)
             reference_date = datetime(2000, 1, 1)
             converted_date = reference_date + timedelta(
                 hours=hours, minutes=minutes, seconds=seconds, microseconds=nanoseconds // 1000

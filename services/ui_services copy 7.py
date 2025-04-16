@@ -330,7 +330,6 @@ class ModernUIApp:
         # Disable the button to prevent multiple clicks
         self.button.config(state=tk.DISABLED)
         self.save_preferences()
-        #self.button.config(state=tk.NORMAL)
         # self.plc_program()
         # Start a thread to simulate processing
         #self.process_data()
@@ -410,10 +409,7 @@ class ModernUIApp:
                         self.button.config(state=tk.NORMAL)
                         totalnoof_axles=calc.convert_coachto_axles(coachtypevalue)
                         self.progress.config(maximum=totalnoof_axles)
-                    if not value =="TrainEnd.......Done":
-                        self.button.config(state=tk.DISABLED)
-                    else:
-                        self.button.config(state=tk.NORMAL)
+                    
                     #    change_counter=-2
                         #previous_value=None
                     # if change_counter==-2 and value=="TrainEnd.......Done":
